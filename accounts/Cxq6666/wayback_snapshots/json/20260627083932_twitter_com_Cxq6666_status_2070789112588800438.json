@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2070788512354598975",
+    "created_at": "2026-06-27T08:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070789112588800438"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070789112588800438",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070788512354598975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就说她年龄小 她说你才小 然后发自己奶照 什么意思？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2070788512354598975",
+        "created_at": "2026-06-27T08:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070789112588800438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070789112588800438",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070788512354598975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就说她年龄小 她说你才小 然后发自己奶照 什么意思？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2070788512354598975",
+        "created_at": "2026-06-27T08:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070788512354598975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070788512354598975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一进群就发奶照叫男生爸爸的神人你有妈吗？是不是从小缺少父爱啊 才15岁就学别人出去卖你爸爸在天上好失望啊 小时候是不是家里没钱冲奶粉喝敬业长大的呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo\n会发一些碎碎念...想找好朋友聊天加v",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 25,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

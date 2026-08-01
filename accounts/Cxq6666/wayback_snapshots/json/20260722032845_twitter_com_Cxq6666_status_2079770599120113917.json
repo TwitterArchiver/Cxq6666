@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2079567237594386835",
+    "created_at": "2026-07-22T03:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079770599120113917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1597537493502812160",
+          "start": 0,
+          "username": "ly272373441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079770599120113917",
+    "in_reply_to_user_id": "1597537493502812160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079770064316965207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ly272373441 不要玩呀，这个太伤身体了，我就试了两瓶剩下的我要用到正规用途上去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-22T03:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079770599120113917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1597537493502812160",
+              "start": 0,
+              "username": "ly272373441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079770599120113917",
+        "in_reply_to_user_id": "1597537493502812160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079770064316965207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ly272373441 不要玩呀，这个太伤身体了，我就试了两瓶剩下的我要用到正规用途上去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597537493502812160",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-22T03:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079770064316965207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079770064316965207",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079567237594386835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 我要我要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 95,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T10:27:00.000Z",
+        "description": "",
+        "id": "1597537493502812160",
+        "name": "在",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597537897041002501/OD7McjLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 851,
+          "like_count": 1817,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "ly272373441",
+        "verified": false
+      }
+    ]
+  }
+}

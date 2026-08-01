@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2078352658692477201",
+    "created_at": "2026-07-18T06:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078371445051461778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027342983457370113",
+          "start": 0,
+          "username": "x_xcherry0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078371445051461778",
+    "in_reply_to_user_id": "2027342983457370113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078352658692477201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcherry0719 美神降临..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2078352639134453760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfKtrWa0AARAuu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2078352639910461440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfKtuPbwAAakiP.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 3715,
+        "height": 720,
+        "media_key": "7_2078352638329167872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078352638329167872/pu/img/Z_HBXuvk7Wpj6jDS.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078352638329167872/pu/vid/avc1/320x320/sfPOAN2l0KOgpyuX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078352638329167872/pu/vid/avc1/540x540/JyMeqJjo9NhAlDDS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078352638329167872/pu/vid/avc1/720x720/c15FTPkMD32d8mwy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078352638329167872/pu/pl/4hXE6-gPB9gY_TnO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2078352658692477201",
+        "created_at": "2026-07-18T06:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078371445051461778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027342983457370113",
+              "start": 0,
+              "username": "x_xcherry0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078371445051461778",
+        "in_reply_to_user_id": "2027342983457370113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078352658692477201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcherry0719 美神降临..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078352639134453760",
+            "3_2078352639910461440",
+            "7_2078352638329167872"
+          ]
+        },
+        "author_id": "2027342983457370113",
+        "conversation_id": "2078352658692477201",
+        "created_at": "2026-07-18T05:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078352658692477201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1uJk0qZv5",
+              "end": 56,
+              "expanded_url": "https://x.com/x_xcherry0719/status/2078352658692477201/video/1",
+              "media_key": "3_2078352639134453760",
+              "start": 33,
+              "url": "https://t.co/M1uJk0qZv5"
+            },
+            {
+              "display_url": "pic.x.com/M1uJk0qZv5",
+              "end": 56,
+              "expanded_url": "https://x.com/x_xcherry0719/status/2078352658692477201/video/1",
+              "media_key": "3_2078352639910461440",
+              "start": 33,
+              "url": "https://t.co/M1uJk0qZv5"
+            },
+            {
+              "display_url": "pic.x.com/M1uJk0qZv5",
+              "end": 56,
+              "expanded_url": "https://x.com/x_xcherry0719/status/2078352658692477201/video/1",
+              "media_key": "7_2078352638329167872",
+              "start": 33,
+              "url": "https://t.co/M1uJk0qZv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078352658692477201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发发之前出的yuri呀。希望不要被现生朋友看出来此推是我(祈祷) https://t.co/M1uJk0qZv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 86,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:20:31.000Z",
+        "description": "我只是在装我自设妹我不是霓虹金好吧\n10年/餐券od药物全肯定毒虫/双相/上学中\n同类都会回fo好吧，欢迎来和我玩我是社交孤儿",
+        "id": "2027342983457370113",
+        "location": "DXM星球",
+        "name": "チェリーちゃん🖤",
+        "pinned_tweet_id": "2076986918278168659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050257900237647872/kgPPiKEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 38,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "x_xcherry0719",
+        "verified": false
+      }
+    ]
+  }
+}

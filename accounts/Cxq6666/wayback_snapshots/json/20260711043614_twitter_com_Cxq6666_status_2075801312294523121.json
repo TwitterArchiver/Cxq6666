@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2075801312294523121",
+    "created_at": "2026-07-11T04:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075801312294523121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1868205822511288320",
+          "start": 3,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075801312294523121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5963
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042201860615115105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vicoOci_Olvidar: 我自杀的时候总有人问，你的家人怎么办？你的朋友怎么办？那？怎么没有人问我怎么办？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2075801312294523121",
+        "created_at": "2026-07-11T04:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075801312294523121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1868205822511288320",
+              "start": 3,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075801312294523121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5963
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042201860615115105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vicoOci_Olvidar: 我自杀的时候总有人问，你的家人怎么办？你的朋友怎么办？那？怎么没有人问我怎么办？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2042201860615115105",
+        "created_at": "2026-04-09T11:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042201860615115105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042201860615115105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1155,
+          "impression_count": 348030,
+          "like_count": 24727,
+          "quote_count": 202,
+          "reply_count": 145,
+          "retweet_count": 5963
+        },
+        "reply_settings": "everyone",
+        "text": "我自杀的时候总有人问，你的家人怎么办？你的朋友怎么办？那？怎么没有人问我怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 63,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "我愛的人幸福就好呀｜全世界最好的老公@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿胃名立希◉‿◉",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 415,
+          "like_count": 25318,
+          "listed_count": 18,
+          "media_count": 1516,
+          "tweet_count": 18796
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

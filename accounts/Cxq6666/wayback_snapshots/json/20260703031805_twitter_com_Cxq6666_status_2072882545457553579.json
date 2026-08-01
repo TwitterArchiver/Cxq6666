@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2072882545457553579",
+    "created_at": "2026-07-03T03:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072882545457553579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072882545457553579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072644128752754830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 我可以负责任的告诉你，你永远不会错过注定属于你的任何东西，命运会把属于你的东西推到你的面前，你甚至都没有拒绝的理由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2072882545457553579",
+        "created_at": "2026-07-03T03:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072882545457553579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072882545457553579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072644128752754830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 我可以负责任的告诉你，你永远不会错过注定属于你的任何东西，命运会把属于你的东西推到你的面前，你甚至都没有拒绝的理由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2072644128752754830",
+        "created_at": "2026-07-02T11:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072644128752754830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072644128752754830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 34890,
+          "like_count": 1175,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "我可以负责任的告诉你，你永远不会错过注定属于你的任何东西，命运会把属于你的东西推到你的面前，你甚至都没有拒绝的理由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 50,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望你每一天都是快乐的 感谢喜欢😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2072237561494560934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42527,
+          "following_count": 2911,
+          "like_count": 40832,
+          "listed_count": 129,
+          "media_count": 1674,
+          "tweet_count": 2871
+        },
+        "url": "",
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

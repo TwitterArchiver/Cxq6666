@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2072344429642629411",
+    "created_at": "2026-07-02T02:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072511411696353430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426576940450914311",
+          "start": 0,
+          "username": "jitiantiantian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072511411696353430",
+    "in_reply_to_user_id": "1426576940450914311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072344429642629411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jitiantiantian 我可以推你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2072344429642629411",
+        "created_at": "2026-07-02T02:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072511411696353430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426576940450914311",
+              "start": 0,
+              "username": "jitiantiantian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072511411696353430",
+        "in_reply_to_user_id": "1426576940450914311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072344429642629411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jitiantiantian 我可以推你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426576940450914311",
+        "conversation_id": "2072344429642629411",
+        "created_at": "2026-07-01T15:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072344429642629411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072344429642629411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在哪能买到lsd。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 48,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T16:15:25.000Z",
+        "description": "日记本｜自伤｜",
+        "id": "1426576940450914311",
+        "name": "ちてんすず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071786151426600960/HZ2zRhpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 141,
+          "like_count": 1147,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "jitiantiantian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2079567237594386835",
+    "created_at": "2026-07-22T00:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079722324400693464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065767683438854144",
+          "start": 0,
+          "username": "Wuyuanyi520"
+        },
+        {
+          "end": 25,
+          "id": "1994856568966582272",
+          "start": 13,
+          "username": "hchng113760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079722324400693464",
+    "in_reply_to_user_id": "2065767683438854144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079688994695332066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuyuanyi520 @hchng113760 我也觉得！我感觉除了全身发麻以外并没有啥意思。我目前没有想用下一次的想法.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-22T00:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079722324400693464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065767683438854144",
+              "start": 0,
+              "username": "Wuyuanyi520"
+            },
+            {
+              "end": 25,
+              "id": "1994856568966582272",
+              "start": 13,
+              "username": "hchng113760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079722324400693464",
+        "in_reply_to_user_id": "2065767683438854144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079688994695332066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuyuanyi520 @hchng113760 我也觉得！我感觉除了全身发麻以外并没有啥意思。我目前没有想用下一次的想法.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065767683438854144",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-21T22:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079688994695332066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994856568966582272",
+              "start": 0,
+              "username": "hchng113760"
+            },
+            {
+              "end": 21,
+              "id": "2059212406451240960",
+              "start": 13,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079688994695332066",
+        "in_reply_to_user_id": "1994856568966582272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079652094047363531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hchng113760 @Cxq6666 我也玩过。。。但是我没瘾啊，觉得那东西一点都没意思，我都不知道🤷🏻‍♂️为什么好多人对这个会上瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 93,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T12:11:46.000Z",
+        "description": "纯钢铁直男/记录日常点滴/佛系更新/合作私信/欢迎👫情侣 单女带照私信",
+        "id": "2065767683438854144",
+        "location": "澳门",
+        "name": "Wuyuanyi",
+        "pinned_tweet_id": "2079693281097850975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065794130262048768/8EbJQMia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Wuyuanyi520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T19:50:57.000Z",
+        "description": "",
+        "id": "1994856568966582272",
+        "name": "禾呈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994856792665591810/rjzFwN6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "hchng113760",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076310379362447360"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2076310386534695047",
+    "created_at": "2026-07-12T14:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076310386534695047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3xv2212Iw",
+          "end": 32,
+          "expanded_url": "https://x.com/Cxq6666/status/2076310386534695047/photo/1",
+          "media_key": "3_2076310379362447360",
+          "start": 9,
+          "url": "https://t.co/d3xv2212Iw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076310386534695047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "氯雷他定神药来的 https://t.co/d3xv2212Iw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076310379362447360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCJSg1a8AAQJE0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076310379362447360"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2076310386534695047",
+        "created_at": "2026-07-12T14:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076310386534695047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3xv2212Iw",
+              "end": 32,
+              "expanded_url": "https://x.com/Cxq6666/status/2076310386534695047/photo/1",
+              "media_key": "3_2076310379362447360",
+              "start": 9,
+              "url": "https://t.co/d3xv2212Iw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076310386534695047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "氯雷他定神药来的 https://t.co/d3xv2212Iw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 66,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

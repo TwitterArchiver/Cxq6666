@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2082068761901728037",
+    "created_at": "2026-07-28T12:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T13:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082087389426745354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082087389426745354",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082068761901728037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2082068761901728037",
+        "created_at": "2026-07-28T12:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082087389426745354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082087389426745354",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082068761901728037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061434565323886592",
+        "conversation_id": "2082068761901728037",
+        "created_at": "2026-07-28T11:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082068761901728037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082068761901728037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道怎么了 我今天一直吃药 心情还是很差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 135,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "药物会带我们逃离这个扭曲的世界 /wlw /重度焦虑 /偏执 /双向 /自毁/od/台独 只是为了体验快乐 叫我奈美 药物提问/喜欢的会互fo( ̀⌄ ́)我是个很好相处的lesbian 活着只是为了体验快乐男的不要关注我 互相尊重是作为人类的最基本的 你是伪人也不行哦 除非是gay^ ^基督教",
+        "id": "2061434565323886592",
+        "location": "台湾",
+        "name": "東九奈美 d9nm",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061503696035520512/4Kc3hYl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 83,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false
+      }
+    ]
+  }
+}

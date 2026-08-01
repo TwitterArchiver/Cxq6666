@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2069314830625108194",
+    "created_at": "2026-06-23T07:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069324546554187978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046957580791189504",
+          "start": 0,
+          "username": "yumeialinlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069324546554187978",
+    "in_reply_to_user_id": "2046957580791189504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069314830625108194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeialinlin 抱抱阿琳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2069314830625108194",
+        "created_at": "2026-06-23T07:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069324546554187978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046957580791189504",
+              "start": 0,
+              "username": "yumeialinlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069324546554187978",
+        "in_reply_to_user_id": "2046957580791189504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069314830625108194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeialinlin 抱抱阿琳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046957580791189504",
+        "conversation_id": "2069314830625108194",
+        "created_at": "2026-06-23T07:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069314830625108194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumeialinlin/s…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/yumeialinlin/status/2069314407763693993",
+              "start": 69,
+              "url": "https://t.co/glPaRtR4b6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069314830625108194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069314407763693993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时路上就应该不接朋友的电话，直接一头扎进长江的水里，这样世界上就少了一个空虚寂寞冷的感情骗子了，就不会有一个幽灵永远骚扰别人的记忆了。 https://t.co/glPaRtR4b6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "",
+        "id": "2059212406451240960",
+        "name": "Chenxianq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T14:21:44.000Z",
+        "description": "长叹息以掩涕兮，哀民生之多艰",
+        "id": "2046957580791189504",
+        "location": "格拉摩根",
+        "name": "玉米阿琳",
+        "pinned_tweet_id": "2062796073249476853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065967191871344640/EqF1huc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 111,
+          "like_count": 3500,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "yumeialinlin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2072292782329475469",
+    "created_at": "2026-07-01T12:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072292782329475469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guoxmvs/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/guoxmvs/status/2072216722455789880",
+          "start": 9,
+          "url": "https://t.co/xc0Mi2FuE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072292782329475469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072216722455789880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以用这个自杀吗 https://t.co/xc0Mi2FuE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072216699307491328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH-G-PbAAAKw0v.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2072292782329475469",
+        "created_at": "2026-07-01T12:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072292782329475469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guoxmvs/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/guoxmvs/status/2072216722455789880",
+              "start": 9,
+              "url": "https://t.co/xc0Mi2FuE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072292782329475469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072216722455789880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以用这个自杀吗 https://t.co/xc0Mi2FuE5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072216699307491328"
+          ]
+        },
+        "author_id": "2061773740195921920",
+        "conversation_id": "2072216722455789880",
+        "created_at": "2026-07-01T07:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072216722455789880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vn7lSo06pi",
+              "end": 76,
+              "expanded_url": "https://x.com/guoxmvs/status/2072216722455789880/photo/1",
+              "media_key": "3_2072216699307491328",
+              "start": 53,
+              "url": "https://t.co/Vn7lSo06pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072216722455789880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1856,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸叔丁酯与亚硝酸钠致死原理相同，前者甚至不禁售，30块钱可以买到25ml 90%浓度的，完全足以致死 https://t.co/Vn7lSo06pi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 47,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T11:36:27.000Z",
+        "description": "11.08.30出厂/自杀未遂/初中生/休学在家/mtf/喜欢瞎写东西",
+        "id": "2061773740195921920",
+        "location": "时间的尽头",
+        "name": "噪声🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062093862416617472/R6as1JuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 73,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "guoxmvs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2079423153970074041",
+    "created_at": "2026-07-21T05:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079439287268057096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514554987719770118",
+          "start": 0,
+          "username": "Thootie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079439287268057096",
+    "in_reply_to_user_id": "1514554987719770118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079437846008807774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thootie_ 爱你宝宝，店长说我抑郁症不适合上班😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079423153970074041",
+        "created_at": "2026-07-21T05:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079439287268057096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514554987719770118",
+              "start": 0,
+              "username": "Thootie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079439287268057096",
+        "in_reply_to_user_id": "1514554987719770118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079437846008807774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thootie_ 爱你宝宝，店长说我抑郁症不适合上班😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514554987719770118",
+        "conversation_id": "2079423153970074041",
+        "created_at": "2026-07-21T05:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079437846008807774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079437846008807774",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079423153970074041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 正好换个更适合的工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 91,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:43:55.000Z",
+        "description": "我从来不穿内裤因为巨龙不该被束缚",
+        "id": "1514554987719770118",
+        "location": "打赏解锁",
+        "name": "STILNOX",
+        "pinned_tweet_id": "2072371806909165626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076608132403597312/Vs_P_UXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 482,
+          "like_count": 7005,
+          "listed_count": 9,
+          "media_count": 522,
+          "tweet_count": 2518
+        },
+        "url": "",
+        "username": "Thootie_",
+        "verified": false
+      }
+    ]
+  }
+}

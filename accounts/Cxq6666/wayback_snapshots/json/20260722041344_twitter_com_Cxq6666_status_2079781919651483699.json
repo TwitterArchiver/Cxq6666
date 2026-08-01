@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2079567237594386835",
+    "created_at": "2026-07-22T04:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079781919651483699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834974107577925632",
+          "start": 0,
+          "username": "yuuki_konno__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079781919651483699",
+    "in_reply_to_user_id": "834974107577925632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079780210669687159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_konno__ 酥麻感来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-22T04:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079781919651483699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834974107577925632",
+              "start": 0,
+              "username": "yuuki_konno__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079781919651483699",
+        "in_reply_to_user_id": "834974107577925632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079780210669687159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_konno__ 酥麻感来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "834974107577925632",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-22T04:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079780210669687159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079780210669687159",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079567237594386835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 啊……我看安利说这个很舒服来着😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 98,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "location": "west koera",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076850315530539009/3bsBXrEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 1306,
+          "like_count": 49867,
+          "listed_count": 0,
+          "media_count": 1188,
+          "tweet_count": 3556
+        },
+        "url": "",
+        "username": "yuuki_konno__",
+        "verified": false
+      }
+    ]
+  }
+}

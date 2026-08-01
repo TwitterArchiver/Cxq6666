@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2081347848814436492",
+    "created_at": "2026-07-27T05:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081610603618271475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1739856870645657601",
+          "start": 0,
+          "username": "JesseMccmouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081610603618271475",
+    "in_reply_to_user_id": "1739856870645657601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081528567058543021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JesseMccmouse 我加了呀 只是被埋没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2081347848814436492",
+        "created_at": "2026-07-27T05:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081610603618271475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739856870645657601",
+              "start": 0,
+              "username": "JesseMccmouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081610603618271475",
+        "in_reply_to_user_id": "1739856870645657601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081528567058543021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JesseMccmouse 我加了呀 只是被埋没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739856870645657601",
+        "conversation_id": "2081347848814436492",
+        "created_at": "2026-07-26T23:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081528567058543021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081528567058543021",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081347848814436492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 加点干燥剂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 133,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T03:53:21.000Z",
+        "description": "杆子 绳子 脖子",
+        "id": "1739856870645657601",
+        "name": "罪果果",
+        "pinned_tweet_id": "1863081037649317976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074601235425202176/Ji_8uPLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 205,
+          "like_count": 7830,
+          "listed_count": 0,
+          "media_count": 486,
+          "tweet_count": 2832
+        },
+        "url": "",
+        "username": "JesseMccmouse",
+        "verified": false
+      }
+    ]
+  }
+}

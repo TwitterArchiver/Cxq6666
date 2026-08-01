@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079921794841300992",
+        "3_2079921794879037440"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2079921804047790157",
+    "created_at": "2026-07-22T13:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079921804047790157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJqpr4pj5s",
+          "end": 45,
+          "expanded_url": "https://x.com/Cxq6666/status/2079921804047790157/photo/1",
+          "media_key": "3_2079921794841300992",
+          "start": 22,
+          "url": "https://t.co/yJqpr4pj5s"
+        },
+        {
+          "display_url": "pic.x.com/yJqpr4pj5s",
+          "end": 45,
+          "expanded_url": "https://x.com/Cxq6666/status/2079921804047790157/photo/1",
+          "media_key": "3_2079921794879037440",
+          "start": 22,
+          "url": "https://t.co/yJqpr4pj5s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079921804047790157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经开奖了喵 中奖的24小时不找我作废喵 https://t.co/yJqpr4pj5s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2079921794841300992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1d2j4b0AAyeze.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2079921794879037440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1d2kBboAA_8U0.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079921794841300992",
+            "3_2079921794879037440"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079921804047790157",
+        "created_at": "2026-07-22T13:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079921804047790157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJqpr4pj5s",
+              "end": 45,
+              "expanded_url": "https://x.com/Cxq6666/status/2079921804047790157/photo/1",
+              "media_key": "3_2079921794841300992",
+              "start": 22,
+              "url": "https://t.co/yJqpr4pj5s"
+            },
+            {
+              "display_url": "pic.x.com/yJqpr4pj5s",
+              "end": 45,
+              "expanded_url": "https://x.com/Cxq6666/status/2079921804047790157/photo/1",
+              "media_key": "3_2079921794879037440",
+              "start": 22,
+              "url": "https://t.co/yJqpr4pj5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079921804047790157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经开奖了喵 中奖的24小时不找我作废喵 https://t.co/yJqpr4pj5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 108,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

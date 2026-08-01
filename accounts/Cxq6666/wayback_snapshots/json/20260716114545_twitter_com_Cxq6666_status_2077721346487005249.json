@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2077677037662372025",
+    "created_at": "2026-07-16T11:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077721346487005249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066530100938780672",
+          "start": 0,
+          "username": "furniture_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077721346487005249",
+    "in_reply_to_user_id": "2066530100938780672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077677037662372025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furniture_666 卧槽我要改这个名字了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2077677037662372025",
+        "created_at": "2026-07-16T11:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077721346487005249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066530100938780672",
+              "start": 0,
+              "username": "furniture_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077721346487005249",
+        "in_reply_to_user_id": "2066530100938780672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077677037662372025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furniture_666 卧槽我要改这个名字了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066530100938780672",
+        "conversation_id": "2077677037662372025",
+        "created_at": "2026-07-16T08:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077677037662372025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077677037662372025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沙发分享普瑞巴林极好体验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 70,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T14:39:17.000Z",
+        "description": "我是沙发，对于过去我太后悔了。\n重度抑郁焦虑、双相情感障碍、精神分裂，药物治疗中。除此之外我不太想让你知道我是谁。\n最爱的人是@Mo_Qing_MOON",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Mo_Qing_MOON"
+              }
+            ]
+          }
+        },
+        "id": "2066530100938780672",
+        "name": "地獄沙發",
+        "pinned_tweet_id": "2073128185496305724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068761513582809088/3Il57cJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 37,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "furniture_666",
+        "verified": false
+      }
+    ]
+  }
+}

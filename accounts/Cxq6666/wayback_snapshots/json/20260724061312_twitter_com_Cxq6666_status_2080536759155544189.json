@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080514165010268617",
+    "created_at": "2026-07-24T06:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080536759155544189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917009430845194240",
+          "start": 0,
+          "username": "BDcivetcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080536759155544189",
+    "in_reply_to_user_id": "1917009430845194240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080526713839366515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDcivetcat 小心点，摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080514165010268617",
+        "created_at": "2026-07-24T06:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080536759155544189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917009430845194240",
+              "start": 0,
+              "username": "BDcivetcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080536759155544189",
+        "in_reply_to_user_id": "1917009430845194240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080526713839366515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDcivetcat 小心点，摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917009430845194240",
+        "conversation_id": "2080514165010268617",
+        "created_at": "2026-07-24T05:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080526713839366515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080526713839366515",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080522024284532911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 训练的时候受伤了TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 114,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T00:14:10.000Z",
+        "description": "07 精神病休学中 自残 高强度负能掉落 舟批 我是男的对不起 现生很糟糕 精神很差 社交=0 烦到你了对不起 我真的很讨厌的话就拉黑我 不爽的话骂我去死 如果这对你有帮助",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%91%AB%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%91%AB%E8%8A%A6%E8%8A%B1%E6%97%A5%E5%BF%97",
+                "start": 0,
+                "url": "https://t.co/YkUZ8VBaOv"
+              }
+            ]
+          }
+        },
+        "id": "1917009430845194240",
+        "name": "葫芦花日志",
+        "pinned_tweet_id": "2068366360993014158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065074655925608448/UjqBCc9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 243,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/YkUZ8VBaOv",
+        "username": "BDcivetcat",
+        "verified": false
+      }
+    ]
+  }
+}

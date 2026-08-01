@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080540510926815624",
+    "created_at": "2026-07-24T07:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080561438826074451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634347278189330433",
+          "start": 0,
+          "username": "xiaoshanruixig1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080561438826074451",
+    "in_reply_to_user_id": "1634347278189330433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080540510926815624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshanruixig1 这些都是机器人吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080540501812604928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-QkC9acAAFB8G.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080540502890590208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-QkG-bMAAqOC_.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080540503066783744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-QkHobsAApZ8g.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080540503666552832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-QkJ3bcAA8bX5.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080540510926815624",
+        "created_at": "2026-07-24T07:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080561438826074451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634347278189330433",
+              "start": 0,
+              "username": "xiaoshanruixig1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080561438826074451",
+        "in_reply_to_user_id": "1634347278189330433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080540510926815624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshanruixig1 这些都是机器人吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080540501812604928",
+            "3_2080540502890590208",
+            "3_2080540503066783744",
+            "3_2080540503666552832"
+          ]
+        },
+        "author_id": "1634347278189330433",
+        "conversation_id": "2080540510926815624",
+        "created_at": "2026-07-24T06:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080540510926815624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GW1ADjPoOY",
+              "end": 76,
+              "expanded_url": "https://x.com/xiaoshanruixig1/status/2080540510926815624/photo/1",
+              "media_key": "3_2080540501812604928",
+              "start": 53,
+              "url": "https://t.co/GW1ADjPoOY"
+            },
+            {
+              "display_url": "pic.x.com/GW1ADjPoOY",
+              "end": 76,
+              "expanded_url": "https://x.com/xiaoshanruixig1/status/2080540510926815624/photo/1",
+              "media_key": "3_2080540502890590208",
+              "start": 53,
+              "url": "https://t.co/GW1ADjPoOY"
+            },
+            {
+              "display_url": "pic.x.com/GW1ADjPoOY",
+              "end": 76,
+              "expanded_url": "https://x.com/xiaoshanruixig1/status/2080540510926815624/photo/1",
+              "media_key": "3_2080540503066783744",
+              "start": 53,
+              "url": "https://t.co/GW1ADjPoOY"
+            },
+            {
+              "display_url": "pic.x.com/GW1ADjPoOY",
+              "end": 76,
+              "expanded_url": "https://x.com/xiaoshanruixig1/status/2080540510926815624/photo/1",
+              "media_key": "3_2080540503666552832",
+              "start": 53,
+              "url": "https://t.co/GW1ADjPoOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080540510926815624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1不知道诶，我还要苦逼打工😭\np2谢谢谢谢非常感谢喵\np3谢谢喵，分情况吧还有当时的状态\np4不知道诶 https://t.co/GW1ADjPoOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 117,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T00:15:44.000Z",
+        "description": "(*^▽^*)",
+        "id": "1634347278189330433",
+        "location": "Tokyo-to, Japan",
+        "name": "ゆき",
+        "pinned_tweet_id": "2080084501536165946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074787317852872704/Gd9LdFZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 16,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "xiaoshanruixig1",
+        "verified": false
+      }
+    ]
+  }
+}

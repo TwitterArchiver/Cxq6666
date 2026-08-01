@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080739118724927811",
+    "created_at": "2026-07-24T19:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080743252203036900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046828260835917825",
+          "start": 0,
+          "username": "ZaZa060618"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080743252203036900",
+    "in_reply_to_user_id": "2046828260835917825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080739118724927811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaZa060618 宝宝好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2080739109728137216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFMjGbsAAtp1P.jpg",
+        "width": 1215
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080739109694558208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFMi-bUAAYeoK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1694,
+        "media_key": "3_2080739109707141120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFMjBbUAAaOxK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080739118724927811",
+        "created_at": "2026-07-24T19:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080743252203036900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046828260835917825",
+              "start": 0,
+              "username": "ZaZa060618"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080743252203036900",
+        "in_reply_to_user_id": "2046828260835917825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080739118724927811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaZa060618 宝宝好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080739109728137216",
+            "3_2080739109694558208",
+            "3_2080739109707141120"
+          ]
+        },
+        "author_id": "2046828260835917825",
+        "conversation_id": "2080739118724927811",
+        "created_at": "2026-07-24T19:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080739118724927811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4SAYufYEA",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaZa060618/status/2080739118724927811/photo/1",
+              "media_key": "3_2080739109728137216",
+              "start": 0,
+              "url": "https://t.co/T4SAYufYEA"
+            },
+            {
+              "display_url": "pic.x.com/T4SAYufYEA",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaZa060618/status/2080739118724927811/photo/1",
+              "media_key": "3_2080739109694558208",
+              "start": 0,
+              "url": "https://t.co/T4SAYufYEA"
+            },
+            {
+              "display_url": "pic.x.com/T4SAYufYEA",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaZa060618/status/2080739118724927811/photo/1",
+              "media_key": "3_2080739109707141120",
+              "start": 0,
+              "url": "https://t.co/T4SAYufYEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080739118724927811",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T4SAYufYEA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 122,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T05:48:48.000Z",
+        "description": "秽土转生 寻回我上一世的fo",
+        "id": "2046828260835917825",
+        "location": "东京",
+        "name": "缠绕我脸上的悲伤应该如何卸妆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046829060488310784/BsZ40szS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "ZaZa060618",
+        "verified": false
+      }
+    ]
+  }
+}

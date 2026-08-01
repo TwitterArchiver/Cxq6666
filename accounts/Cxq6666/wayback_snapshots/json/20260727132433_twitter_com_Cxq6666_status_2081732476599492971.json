@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2081666599166341287",
+    "created_at": "2026-07-27T13:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081732476599492971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917009430845194240",
+          "start": 0,
+          "username": "BDcivetcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081732476599492971",
+    "in_reply_to_user_id": "1917009430845194240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081666599166341287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDcivetcat 好帅的手"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081666585018949632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOQutza4AAAaF9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081666585044176896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOQut5b0AANmbE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081666585065062400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOQut-agAAFgQq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2081666599166341287",
+        "created_at": "2026-07-27T13:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081732476599492971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917009430845194240",
+              "start": 0,
+              "username": "BDcivetcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081732476599492971",
+        "in_reply_to_user_id": "1917009430845194240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081666599166341287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDcivetcat 好帅的手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081666585018949632",
+            "3_2081666585044176896",
+            "3_2081666585065062400"
+          ]
+        },
+        "author_id": "1917009430845194240",
+        "conversation_id": "2081666599166341287",
+        "created_at": "2026-07-27T09:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081666599166341287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENUTN2IhTx",
+              "end": 30,
+              "expanded_url": "https://x.com/BDcivetcat/status/2081666599166341287/photo/1",
+              "media_key": "3_2081666585018949632",
+              "start": 7,
+              "url": "https://t.co/ENUTN2IhTx"
+            },
+            {
+              "display_url": "pic.x.com/ENUTN2IhTx",
+              "end": 30,
+              "expanded_url": "https://x.com/BDcivetcat/status/2081666599166341287/photo/1",
+              "media_key": "3_2081666585044176896",
+              "start": 7,
+              "url": "https://t.co/ENUTN2IhTx"
+            },
+            {
+              "display_url": "pic.x.com/ENUTN2IhTx",
+              "end": 30,
+              "expanded_url": "https://x.com/BDcivetcat/status/2081666599166341287/photo/1",
+              "media_key": "3_2081666585065062400",
+              "start": 7,
+              "url": "https://t.co/ENUTN2IhTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081666599166341287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶啊 操俗我 https://t.co/ENUTN2IhTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 134,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T00:14:10.000Z",
+        "description": "07 精神病休学中 自残 高强度负能掉落 舟批 我是男的对不起 现生很糟糕 精神很差 社交=0 烦到你了对不起 我真的很讨厌的话就拉黑我 不爽的话骂我去死 如果这对你有帮助",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%91%AB%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%91%AB%E8%8A%A6%E8%8A%B1%E6%97%A5%E5%BF%97",
+                "start": 0,
+                "url": "https://t.co/YkUZ8VBaOv"
+              }
+            ]
+          }
+        },
+        "id": "1917009430845194240",
+        "name": "葫芦花日志",
+        "pinned_tweet_id": "2068366360993014158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065074655925608448/UjqBCc9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 253,
+          "like_count": 1494,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/YkUZ8VBaOv",
+        "username": "BDcivetcat",
+        "verified": false
+      }
+    ]
+  }
+}

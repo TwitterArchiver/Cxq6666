@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070070531009990657"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2070070539184726128",
+    "created_at": "2026-06-25T09:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070070539184726128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SSP588fpNS",
+          "end": 34,
+          "expanded_url": "https://x.com/Cxq6666/status/2070070539184726128/photo/1",
+          "media_key": "3_2070070531009990657",
+          "start": 11,
+          "url": "https://t.co/SSP588fpNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070070539184726128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补药长黑发根啊啊啊啊 https://t.co/SSP588fpNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070070531009990657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpeLiTa0AEzz2k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070070531009990657"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2070070539184726128",
+        "created_at": "2026-06-25T09:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070070539184726128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SSP588fpNS",
+              "end": 34,
+              "expanded_url": "https://x.com/Cxq6666/status/2070070539184726128/photo/1",
+              "media_key": "3_2070070531009990657",
+              "start": 11,
+              "url": "https://t.co/SSP588fpNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070070539184726128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补药长黑发根啊啊啊啊 https://t.co/SSP588fpNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "",
+        "id": "2059212406451240960",
+        "name": "Chenxianq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2071418152613982718",
+    "created_at": "2026-06-29T02:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T03:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071419465296962034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619606197723856901",
+          "start": 0,
+          "username": "Tokino_Yui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071419465296962034",
+    "in_reply_to_user_id": "1619606197723856901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071418152613982718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokino_Yui 抱抱你呀，如果实在不能接受就不要和他们做朋友了！可以给我分享"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071418136944082944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL8n0hnagAAEVlB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2071418152613982718",
+        "created_at": "2026-06-29T02:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071419465296962034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619606197723856901",
+              "start": 0,
+              "username": "Tokino_Yui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071419465296962034",
+        "in_reply_to_user_id": "1619606197723856901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071418152613982718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokino_Yui 抱抱你呀，如果实在不能接受就不要和他们做朋友了！可以给我分享"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071418136944082944"
+          ]
+        },
+        "author_id": "1619606197723856901",
+        "conversation_id": "2071418152613982718",
+        "created_at": "2026-06-29T02:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T03:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071418152613982718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIIO5781hI",
+              "end": 53,
+              "expanded_url": "https://x.com/Tokino_Yui/status/2071418152613982718/photo/1",
+              "media_key": "3_2071418136944082944",
+              "start": 30,
+              "url": "https://t.co/gIIO5781hI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071418152613982718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我好窝囊啊 你们能不能不要欺负一个精神病了我都那个了 https://t.co/gIIO5781hI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 31,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T08:00:04.000Z",
+        "description": "可以叫我小唯/08/餐券没/od自残/很多黑泥/直fo想和你交朋友/没有回fo一定要私我一下！🥰",
+        "id": "1619606197723856901",
+        "name": "Yui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071418655402086400/aasEYidv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 55,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Tokino_Yui",
+        "verified": false
+      }
+    ]
+  }
+}

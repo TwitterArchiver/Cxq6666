@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2074016356182499511",
+    "created_at": "2026-07-06T06:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074016356182499511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cxq6666/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/cxq6666/status/2073837837183852763",
+          "start": 28,
+          "url": "https://t.co/PMhx7JY1CW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074016356182499511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073837837183852763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次还是在推上抽吧...朋友圈的健全b都把我当神经病了 https://t.co/PMhx7JY1CW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2074016356182499511",
+        "created_at": "2026-07-06T06:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074016356182499511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cxq6666/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/cxq6666/status/2073837837183852763",
+              "start": 28,
+              "url": "https://t.co/PMhx7JY1CW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074016356182499511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073837837183852763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次还是在推上抽吧...朋友圈的健全b都把我当神经病了 https://t.co/PMhx7JY1CW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2073837837183852763",
+        "created_at": "2026-07-05T18:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073837837183852763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073837837183852763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我o了pr好幸福 我给所有给我点赞朋友圈的人都发了红包..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 62,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

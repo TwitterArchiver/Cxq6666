@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080524446989996032",
+        "3_2080524446969053184"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080524452434239664",
+    "created_at": "2026-07-24T05:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080524452434239664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3si7YxNdjn",
+          "end": 44,
+          "expanded_url": "https://x.com/Cxq6666/status/2080524452434239664/photo/1",
+          "media_key": "3_2080524446989996032",
+          "start": 21,
+          "url": "https://t.co/3si7YxNdjn"
+        },
+        {
+          "display_url": "pic.x.com/3si7YxNdjn",
+          "end": 44,
+          "expanded_url": "https://x.com/Cxq6666/status/2080524452434239664/photo/1",
+          "media_key": "3_2080524446969053184",
+          "start": 21,
+          "url": "https://t.co/3si7YxNdjn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080524452434239664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1普瑞巴林\np2阿琳点赞了，我猜是阿琳 https://t.co/3si7YxNdjn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080524446989996032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-B9iFa0AAVbgv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080524446969053184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-B9iAbQAAGch5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080524446989996032",
+            "3_2080524446969053184"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080524452434239664",
+        "created_at": "2026-07-24T05:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080524452434239664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3si7YxNdjn",
+              "end": 44,
+              "expanded_url": "https://x.com/Cxq6666/status/2080524452434239664/photo/1",
+              "media_key": "3_2080524446989996032",
+              "start": 21,
+              "url": "https://t.co/3si7YxNdjn"
+            },
+            {
+              "display_url": "pic.x.com/3si7YxNdjn",
+              "end": 44,
+              "expanded_url": "https://x.com/Cxq6666/status/2080524452434239664/photo/1",
+              "media_key": "3_2080524446969053184",
+              "start": 21,
+              "url": "https://t.co/3si7YxNdjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080524452434239664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1普瑞巴林\np2阿琳点赞了，我猜是阿琳 https://t.co/3si7YxNdjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 114,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

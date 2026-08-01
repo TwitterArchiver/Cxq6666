@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2075714061761954270",
+    "created_at": "2026-07-12T15:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076331856400883940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060247807693643776",
+          "start": 0,
+          "username": "Illnessjhlw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076331856400883940",
+    "in_reply_to_user_id": "2060247807693643776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075714061761954270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Illnessjhlw 宝宝我当你好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2075714061761954270",
+        "created_at": "2026-07-12T15:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076331856400883940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060247807693643776",
+              "start": 0,
+              "username": "Illnessjhlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076331856400883940",
+        "in_reply_to_user_id": "2060247807693643776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075714061761954270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Illnessjhlw 宝宝我当你好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060247807693643776",
+        "conversation_id": "2075714061761954270",
+        "created_at": "2026-07-10T22:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075714061761954270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075714061761954270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总是处理不好人际关系导致我一个现生朋友也没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 68,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T06:32:38.000Z",
+        "description": "这里是小零 11年|od|自伤 LGBT友好 不支持墙内发、带人药物滥用 不涉政 喜欢同类看见会直接回欢迎互fo喵",
+        "id": "2060247807693643776",
+        "name": "Illness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075317710498697216/K4fJU59m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 116,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "Illnessjhlw",
+        "verified": false
+      }
+    ]
+  }
+}

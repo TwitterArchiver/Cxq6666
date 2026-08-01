@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081647559408529409"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2081647566702461147",
+    "created_at": "2026-07-27T07:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081647566702461147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "2071557546561662976",
+          "start": 13,
+          "username": "huadianksre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/494F3XMJmX",
+          "end": 62,
+          "expanded_url": "https://x.com/Cxq6666/status/2081647566702461147/photo/1",
+          "media_key": "3_2081647559408529409",
+          "start": 39,
+          "url": "https://t.co/494F3XMJmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081647566702461147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到花店哥哥送的小黑条了喵@huadianksre 用一盒玉米+就可以换一条 https://t.co/494F3XMJmX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081647559408529409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON_bR4asAEdvY4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081647559408529409"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2081647566702461147",
+        "created_at": "2026-07-27T07:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081647566702461147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "2071557546561662976",
+              "start": 13,
+              "username": "huadianksre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/494F3XMJmX",
+              "end": 62,
+              "expanded_url": "https://x.com/Cxq6666/status/2081647566702461147/photo/1",
+              "media_key": "3_2081647559408529409",
+              "start": 39,
+              "url": "https://t.co/494F3XMJmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081647566702461147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到花店哥哥送的小黑条了喵@huadianksre 用一盒玉米+就可以换一条 https://t.co/494F3XMJmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 134,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T11:34:29.000Z",
+        "description": "4.17/intj/od/自伤/中抑中焦/解离剂/欢迎互fo",
+        "id": "2071557546561662976",
+        "name": "花店a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076547573498699776/KiFmHIcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "huadianksre",
+        "verified": false
+      }
+    ]
+  }
+}

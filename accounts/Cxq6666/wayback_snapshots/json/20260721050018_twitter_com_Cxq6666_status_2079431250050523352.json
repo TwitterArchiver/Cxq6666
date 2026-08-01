@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079431242710458369"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2079431250050523352",
+    "created_at": "2026-07-21T05:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079431250050523352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EGezk5drLr",
+          "end": 92,
+          "expanded_url": "https://x.com/Cxq6666/status/2079431250050523352/photo/1",
+          "media_key": "3_2079431242710458369",
+          "start": 69,
+          "url": "https://t.co/EGezk5drLr"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "204a435ce97d5de4"
+    },
+    "id": "2079431250050523352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中奖的宝宝自己来找我好吗？24不找作废（好多人我无法圈\n没中奖的但是我很喜欢的互fo我会偷偷去他主页找赞赏码打钱\n*此状态依旧pr磕大了 https://t.co/EGezk5drLr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [204a435ce97d5de4].",
+      "parameter": "geo.place_id",
+      "resource_id": "204a435ce97d5de4",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "204a435ce97d5de4"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079431242710458369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNufsqybIAE85nK.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079431242710458369"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079431250050523352",
+        "created_at": "2026-07-21T05:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079431250050523352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGezk5drLr",
+              "end": 92,
+              "expanded_url": "https://x.com/Cxq6666/status/2079431250050523352/photo/1",
+              "media_key": "3_2079431242710458369",
+              "start": 69,
+              "url": "https://t.co/EGezk5drLr"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2079431250050523352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中奖的宝宝自己来找我好吗？24不找作废（好多人我无法圈\n没中奖的但是我很喜欢的互fo我会偷偷去他主页找赞赏码打钱\n*此状态依旧pr磕大了 https://t.co/EGezk5drLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 91,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

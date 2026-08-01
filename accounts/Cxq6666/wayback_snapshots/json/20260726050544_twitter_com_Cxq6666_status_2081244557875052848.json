@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2081033695838847472",
+    "created_at": "2026-07-26T05:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081244557875052848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071557546561662976",
+          "start": 0,
+          "username": "huadianksre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081244557875052848",
+    "in_reply_to_user_id": "2071557546561662976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081033695838847472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huadianksre 抱抱花店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2081033695838847472",
+        "created_at": "2026-07-26T05:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081244557875052848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071557546561662976",
+              "start": 0,
+              "username": "huadianksre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081244557875052848",
+        "in_reply_to_user_id": "2071557546561662976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081033695838847472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huadianksre 抱抱花店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071557546561662976",
+        "conversation_id": "2081033695838847472",
+        "created_at": "2026-07-25T15:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081033695838847472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081033695838847472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人百分之80的痛苦都来自于社交 与亲人的 爱人的和朋友的 我是个情感极其细腻的人 察觉到一丝冷落就会陷入痛苦 所以对我而言最好的办法就是拒绝社交 一个人沉浸在药效里 等死了一段时间后有人闻到腐臭味报晶 把我埋起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 125,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T11:34:29.000Z",
+        "description": "4.17/intj/od/自伤/中抑中焦/解离剂/欢迎互fo",
+        "id": "2071557546561662976",
+        "name": "花店a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076547573498699776/KiFmHIcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "huadianksre",
+        "verified": false
+      }
+    ]
+  }
+}

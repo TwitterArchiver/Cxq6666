@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2070068708484207023",
+    "created_at": "2026-06-25T09:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070070371441848402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426576940450914311",
+          "start": 0,
+          "username": "jitiantiantian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070070371441848402",
+    "in_reply_to_user_id": "1426576940450914311",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070068708484207023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jitiantiantian 我也有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1595,
+        "media_key": "3_2070068702494793728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpchGjbIAAgEM3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2070068708484207023",
+        "created_at": "2026-06-25T09:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070070371441848402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426576940450914311",
+              "start": 0,
+              "username": "jitiantiantian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070070371441848402",
+        "in_reply_to_user_id": "1426576940450914311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070068708484207023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jitiantiantian 我也有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070068702494793728"
+          ]
+        },
+        "author_id": "1426576940450914311",
+        "conversation_id": "2070068708484207023",
+        "created_at": "2026-06-25T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070068708484207023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPE6wYXmMw",
+              "end": 25,
+              "expanded_url": "https://x.com/jitiantiantian/status/2070068708484207023/photo/1",
+              "media_key": "3_2070068702494793728",
+              "start": 2,
+              "url": "https://t.co/pPE6wYXmMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070068708484207023",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/pPE6wYXmMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "",
+        "id": "2059212406451240960",
+        "name": "Chenxianq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 19,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T16:15:25.000Z",
+        "description": "日记本｜自伤｜od",
+        "id": "1426576940450914311",
+        "name": "ちてんすず",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065515886019264512/2sq-zEc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 122,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "jitiantiantian",
+        "verified": false
+      }
+    ]
+  }
+}

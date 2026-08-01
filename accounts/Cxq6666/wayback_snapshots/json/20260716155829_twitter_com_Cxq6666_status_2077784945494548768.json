@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2077784945494548768",
+    "created_at": "2026-07-16T15:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077784945494548768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feifeirainms0z…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/feifeirainms0z/status/2077543288790524114",
+          "start": 57,
+          "url": "https://t.co/JmOe7pqlku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077784945494548768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077543288790524114",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "19岁，还在房间里意淫幸福。19岁还在用眼泪解决问题。19岁，还在责备命运不公。19岁，还是一个乐子 网蛆 唐逼 https://t.co/JmOe7pqlku"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2077784945494548768",
+        "created_at": "2026-07-16T15:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077784945494548768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feifeirainms0z…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/feifeirainms0z/status/2077543288790524114",
+              "start": 57,
+              "url": "https://t.co/JmOe7pqlku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077784945494548768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077543288790524114",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "19岁，还在房间里意淫幸福。19岁还在用眼泪解决问题。19岁，还在责备命运不公。19岁，还是一个乐子 网蛆 唐逼 https://t.co/JmOe7pqlku"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2077543288790524114",
+        "created_at": "2026-07-15T23:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077543288790524114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiu95061/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/jiu95061/status/2042283809442505020",
+              "start": 52,
+              "url": "https://t.co/jS4nluGACn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077543288790524114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042283809442505020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14岁，还在房间里意淫幸福。14岁，还在用眼泪解决问题。14岁，还在责备命运不公。14岁，还是一个乐子 https://t.co/jS4nluGACn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 76,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 140,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "Feifeirainms0z",
+        "verified": false
+      }
+    ]
+  }
+}

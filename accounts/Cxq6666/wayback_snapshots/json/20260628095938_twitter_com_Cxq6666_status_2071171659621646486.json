@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2071171659621646486",
+    "created_at": "2026-06-28T09:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071171659621646486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914573883430330368",
+          "start": 3,
+          "username": "beccakiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071171659621646486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071061089329283489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beccakiko: 最近自学中医，发现两腿之间有一个穴位一直按会很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2071171659621646486",
+        "created_at": "2026-06-28T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071171659621646486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1914573883430330368",
+              "start": 3,
+              "username": "beccakiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071171659621646486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071061089329283489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beccakiko: 最近自学中医，发现两腿之间有一个穴位一直按会很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914573883430330368",
+        "conversation_id": "2071061089329283489",
+        "created_at": "2026-06-28T02:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071061089329283489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071061089329283489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 72616,
+          "like_count": 245,
+          "quote_count": 0,
+          "reply_count": 371,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "最近自学中医，发现两腿之间有一个穴位一直按会很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 29,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T06:56:10.000Z",
+        "description": "一只不太聪明但超级努力的小萌新coser✨ 主要cos二游的角色，如蔚蓝档案 崩坏 明日方舟等💞 我是女生 不要再问我性别了  入🚪或加粉丝群看另一个号置顶@kikobecca",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 78,
+                "username": "kikobecca"
+              }
+            ]
+          }
+        },
+        "id": "1914573883430330368",
+        "location": "🚪52",
+        "name": "朝花希拾",
+        "pinned_tweet_id": "2056043625457365504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016184203558137870/G6UfZtqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62428,
+          "following_count": 123,
+          "like_count": 1533,
+          "listed_count": 192,
+          "media_count": 188,
+          "tweet_count": 1266
+        },
+        "url": "",
+        "username": "beccakiko",
+        "verified": true
+      }
+    ]
+  }
+}

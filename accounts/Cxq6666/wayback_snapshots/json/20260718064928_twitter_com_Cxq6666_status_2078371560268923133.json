@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2078296727019515951",
+    "created_at": "2026-07-18T06:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078371560268923133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514554987719770118",
+          "start": 0,
+          "username": "Thootie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078371560268923133",
+    "in_reply_to_user_id": "1514554987719770118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078296727019515951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thootie_ 好漂亮好闪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2078296687886602240",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNeX04taEAAl8A8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNeX04taEAAl8A8.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2078296727019515951",
+        "created_at": "2026-07-18T06:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078371560268923133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514554987719770118",
+              "start": 0,
+              "username": "Thootie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078371560268923133",
+        "in_reply_to_user_id": "1514554987719770118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078296727019515951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thootie_ 好漂亮好闪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078296687886602240"
+          ]
+        },
+        "author_id": "1514554987719770118",
+        "conversation_id": "2078296727019515951",
+        "created_at": "2026-07-18T01:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078296727019515951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Ak1XR3yKt",
+              "end": 29,
+              "expanded_url": "https://x.com/Thootie_/status/2078296727019515951/photo/1",
+              "media_key": "16_2078296687886602240",
+              "start": 6,
+              "url": "https://t.co/1Ak1XR3yKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078296727019515951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2252,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夸夸新美甲 https://t.co/1Ak1XR3yKt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 86,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:43:55.000Z",
+        "description": "我从来不穿内裤因为巨龙不该被束缚",
+        "id": "1514554987719770118",
+        "location": "打赏解锁",
+        "name": "STILNOX",
+        "pinned_tweet_id": "2067183615897915603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076608132403597312/Vs_P_UXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 480,
+          "like_count": 6966,
+          "listed_count": 9,
+          "media_count": 525,
+          "tweet_count": 2494
+        },
+        "url": "",
+        "username": "Thootie_",
+        "verified": false
+      }
+    ]
+  }
+}

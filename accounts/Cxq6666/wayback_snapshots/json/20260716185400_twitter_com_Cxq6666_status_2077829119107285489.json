@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2077794138637168730",
+    "created_at": "2026-07-16T18:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077829119107285489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514554987719770118",
+          "start": 0,
+          "username": "Thootie_"
+        },
+        {
+          "end": 24,
+          "id": "2066530100938780672",
+          "start": 10,
+          "username": "furniture_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077829119107285489",
+    "in_reply_to_user_id": "1514554987719770118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077828750415400985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thootie_ @furniture_666 我不吃药也没感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2077794138637168730",
+        "created_at": "2026-07-16T18:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077829119107285489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514554987719770118",
+              "start": 0,
+              "username": "Thootie_"
+            },
+            {
+              "end": 24,
+              "id": "2066530100938780672",
+              "start": 10,
+              "username": "furniture_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077829119107285489",
+        "in_reply_to_user_id": "1514554987719770118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077828750415400985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thootie_ @furniture_666 我不吃药也没感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514554987719770118",
+        "conversation_id": "2077794138637168730",
+        "created_at": "2026-07-16T18:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077828750415400985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 23,
+              "id": "2066530100938780672",
+              "start": 9,
+              "username": "furniture_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077828750415400985",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077815491150983498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 @furniture_666 我感觉是吃药吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 77,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:43:55.000Z",
+        "description": "我从来不穿内裤因为巨龙不该被束缚",
+        "id": "1514554987719770118",
+        "location": "解开中··",
+        "name": "STILNOX",
+        "pinned_tweet_id": "2067183615897915603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076608132403597312/Vs_P_UXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 479,
+          "like_count": 6934,
+          "listed_count": 9,
+          "media_count": 546,
+          "tweet_count": 2477
+        },
+        "url": "",
+        "username": "Thootie_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T14:39:17.000Z",
+        "description": "我是沙发，对于过去我太后悔了。\n重度抑郁焦虑、双相情感障碍、精神分裂，药物治疗中。除此之外我不太想让你知道我是谁。\n最爱的人是@Mo_Qing_MOON",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Mo_Qing_MOON"
+              }
+            ]
+          }
+        },
+        "id": "2066530100938780672",
+        "name": "地獄沙發",
+        "pinned_tweet_id": "2073128185496305724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068761513582809088/3Il57cJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 37,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "furniture_666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2072698747851845949",
+    "created_at": "2026-07-02T15:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072698747851845949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qaq5777/status…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/qaq5777/status/2072661547902816713",
+          "start": 93,
+          "url": "https://t.co/eey9JpP3KC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072698747851845949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072661547902816713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实不然，对我来讲父亲更衬托母亲。在我妈和我吵架开始发疯要自杀的时候父亲来阻止的，我妈对我无理取闹的打骂的时候我父亲也会来帮我。应该说得亏有我父亲一直在，不然我早在2022年就自杀了。 https://t.co/eey9JpP3KC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2072698747851845949",
+        "created_at": "2026-07-02T15:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072698747851845949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qaq5777/status…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/qaq5777/status/2072661547902816713",
+              "start": 93,
+              "url": "https://t.co/eey9JpP3KC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072698747851845949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072661547902816713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实不然，对我来讲父亲更衬托母亲。在我妈和我吵架开始发疯要自杀的时候父亲来阻止的，我妈对我无理取闹的打骂的时候我父亲也会来帮我。应该说得亏有我父亲一直在，不然我早在2022年就自杀了。 https://t.co/eey9JpP3KC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "2072661547902816713",
+        "created_at": "2026-07-02T12:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072661547902816713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072661547902816713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2649,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真诚发问\n\n是因为父亲太隐形了吗，所以感觉很多人在谈起家庭创伤时矛盾对象更多地指向母亲？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 50,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2067902295594144087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42820,
+          "following_count": 264,
+          "like_count": 13141,
+          "listed_count": 79,
+          "media_count": 247,
+          "tweet_count": 5734
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

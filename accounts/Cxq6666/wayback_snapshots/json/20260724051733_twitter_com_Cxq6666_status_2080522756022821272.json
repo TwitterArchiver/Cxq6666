@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080522756022821272",
+    "created_at": "2026-07-24T05:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080522756022821272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cxq6666/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cxq6666/status/2080369168940253622",
+          "start": 5,
+          "url": "https://t.co/RMNPzIaYhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080522756022821272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080369168940253622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "随来随来 https://t.co/RMNPzIaYhy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080522756022821272",
+        "created_at": "2026-07-24T05:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080522756022821272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cxq6666/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cxq6666/status/2080369168940253622",
+              "start": 5,
+              "url": "https://t.co/RMNPzIaYhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080522756022821272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080369168940253622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "随来随来 https://t.co/RMNPzIaYhy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080369168940253622",
+        "created_at": "2026-07-23T19:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080369168940253622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/aryiiii16",
+              "end": 34,
+              "expanded_url": "https://ngl.link/aryiiii16",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2080369198560399360/VXR4oj-w?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080369198560399360/VXR4oj-w?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "@aryiiii16: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/aryiiii16",
+              "url": "https://t.co/kr9NUF2ncs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080369168940253622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说有人想来吗...\nhttps://t.co/kr9NUF2ncs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 114,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

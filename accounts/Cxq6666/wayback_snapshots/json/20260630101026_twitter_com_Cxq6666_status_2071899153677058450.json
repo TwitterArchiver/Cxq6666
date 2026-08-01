@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2071895778344460320",
+    "created_at": "2026-06-30T10:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071899153677058450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943628759074312192",
+          "start": 0,
+          "username": "k3633455837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071899153677058450",
+    "in_reply_to_user_id": "1943628759074312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071895778344460320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3633455837 阿普可以o吗！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2071895778344460320",
+        "created_at": "2026-06-30T10:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071899153677058450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943628759074312192",
+              "start": 0,
+              "username": "k3633455837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071899153677058450",
+        "in_reply_to_user_id": "1943628759074312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071895778344460320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3633455837 阿普可以o吗！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943628759074312192",
+        "conversation_id": "2071895778344460320",
+        "created_at": "2026-06-30T09:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071895778344460320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071895778344460320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服用完阿普唑仑，出现了轻松愉悦和困倦，紧接着就是暴力倾向和侵入性思维，个体不耐受出现了什么反常反应？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 40,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T11:09:53.000Z",
+        "description": "精神病一个",
+        "id": "1943628759074312192",
+        "location": "理想国",
+        "name": "苦水",
+        "pinned_tweet_id": "2053523266665668915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982046920253014016/q4zIYHcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 105,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1962
+        },
+        "url": "",
+        "username": "k3633455837",
+        "verified": false
+      }
+    ]
+  }
+}

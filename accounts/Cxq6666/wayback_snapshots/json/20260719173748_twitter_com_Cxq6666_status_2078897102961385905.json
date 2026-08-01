@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2078527893131727104",
+    "created_at": "2026-07-19T17:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078897102961385905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2049325513379123200",
+          "start": 0,
+          "username": "Satoukawaii0514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078897102961385905",
+    "in_reply_to_user_id": "2049325513379123200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078527893131727104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Satoukawaii0514 好棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078527884604665856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhqGTma8AATZiX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2078527893131727104",
+        "created_at": "2026-07-19T17:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078897102961385905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2049325513379123200",
+              "start": 0,
+              "username": "Satoukawaii0514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078897102961385905",
+        "in_reply_to_user_id": "2049325513379123200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078527893131727104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Satoukawaii0514 好棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078527884604665856"
+          ]
+        },
+        "author_id": "2049325513379123200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078527893131727104",
+        "created_at": "2026-07-18T17:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078527893131727104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BI5NH98MjY",
+              "end": 31,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2078527893131727104/photo/1",
+              "media_key": "3_2078527884604665856",
+              "start": 8,
+              "url": "https://t.co/BI5NH98MjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078527893131727104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫 做可乐鸡翅 https://t.co/BI5NH98MjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 90,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T03:11:14.000Z",
+        "description": "请叫我猫猫/小猫＞𐋣＜ 焦虑症 喜欢舟 邦 烤 途 扭 167 135斤（减肥ing）接线下/委托 常驻ip广州 🚪30 🚪好友位➕朋友圈➕聊天 过🚪发课表",
+        "id": "2049325513379123200",
+        "location": "广州",
+        "name": "流泪猫猫头",
+        "pinned_tweet_id": "2076991010757038166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075056761632096257/ANmhEVvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 206,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "Satoukawaii0514",
+        "verified": false
+      }
+    ]
+  }
+}

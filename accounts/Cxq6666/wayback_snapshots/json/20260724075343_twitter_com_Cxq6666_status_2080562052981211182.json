@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080562052981211182",
+    "created_at": "2026-07-24T07:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080562052981211182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lover_ning/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lover_ning/status/2080296563931500547",
+          "start": 5,
+          "url": "https://t.co/CBrPrZ4zlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080562052981211182",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080296563931500547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wait https://t.co/CBrPrZ4zlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26566,
+        "height": 640,
+        "media_key": "13_2080296545568866304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080296545568866304/img/xjQOCNMjOI2q7OZt.jpg",
+        "public_metrics": {
+          "view_count": 16117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080296545568866304/vid/avc1/320x426/wZvg6WIdqjpbpYVi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080296545568866304/vid/avc1/480x640/CIubGgbziuvW2Jbm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080296545568866304/pl/ZfLa9voiqWTt4R_i.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080562052981211182",
+        "created_at": "2026-07-24T07:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080562052981211182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lover_ning/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lover_ning/status/2080296563931500547",
+              "start": 5,
+              "url": "https://t.co/CBrPrZ4zlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080562052981211182",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080296563931500547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wait https://t.co/CBrPrZ4zlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080296545568866304"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2080296563931500547",
+        "created_at": "2026-07-23T14:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080296563931500547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdroUbwR9e",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/2080296563931500547/video/1",
+              "media_key": "13_2080296545568866304",
+              "start": 0,
+              "url": "https://t.co/NdroUbwR9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080296563931500547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 36918,
+          "like_count": 272,
+          "quote_count": 10,
+          "reply_count": 73,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NdroUbwR9e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 117,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "自用VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304761,
+          "following_count": 91,
+          "like_count": 32505,
+          "listed_count": 489,
+          "media_count": 3609,
+          "tweet_count": 28650
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

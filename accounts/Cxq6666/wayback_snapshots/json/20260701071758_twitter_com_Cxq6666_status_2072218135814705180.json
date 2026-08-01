@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2072055393904415189",
+    "created_at": "2026-07-01T07:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072218135814705180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027342983457370113",
+          "start": 0,
+          "username": "x_xcherry0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072218135814705180",
+    "in_reply_to_user_id": "2027342983457370113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072055393904415189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcherry0719 酸奶葡萄怎么获得！！？好馋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2072055393904415189",
+        "created_at": "2026-07-01T07:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072218135814705180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027342983457370113",
+              "start": 0,
+              "username": "x_xcherry0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072218135814705180",
+        "in_reply_to_user_id": "2027342983457370113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072055393904415189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcherry0719 酸奶葡萄怎么获得！！？好馋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027342983457370113",
+        "conversation_id": "2072055393904415189",
+        "created_at": "2026-06-30T20:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072055393904415189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072055393904415189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦开始困了…明天研究噻奈普汀和dpt！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "19｜餐券妹｜非职业coser｜非世一暮蝶｜轻松熊重度依赖\n欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "Chenxianq",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059551275990306816/e_95Wxgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T11:20:31.000Z",
+        "description": "我只是在装我自设妹我不是霓虹金好吧",
+        "id": "2027342983457370113",
+        "name": "チェリーちゃん🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050257900237647872/kgPPiKEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "x_xcherry0719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2080564647917432976",
+    "created_at": "2026-07-24T23:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080798621747081506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683705129810415618",
+          "start": 0,
+          "username": "anianccc0611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080798621747081506",
+    "in_reply_to_user_id": "1683705129810415618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080782947007742334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anianccc0611 omg，我看这句话好难懂我以为是真人写的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080564647917432976",
+        "created_at": "2026-07-24T23:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080798621747081506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683705129810415618",
+              "start": 0,
+              "username": "anianccc0611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080798621747081506",
+        "in_reply_to_user_id": "1683705129810415618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080782947007742334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anianccc0611 omg，我看这句话好难懂我以为是真人写的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683705129810415618",
+        "conversation_id": "2080564647917432976",
+        "created_at": "2026-07-24T22:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080782947007742334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080782947007742334",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080564647917432976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 我的敏感程度belike:\n其实这个只是系统给的随机问题 不要担心大妹子😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 122,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T05:06:07.000Z",
+        "description": "微信打完钱截图再骚扰我 不打钱骚扰我一律视为死妈",
+        "id": "1683705129810415618",
+        "location": "美国",
+        "name": "贿",
+        "pinned_tweet_id": "2058817968981622954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699432448622592/tdW0Tbdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 53,
+          "like_count": 2468,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "anianccc0611",
+        "verified": false
+      }
+    ]
+  }
+}
