@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083534582444683264"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083512865848447103",
+    "created_at": "2026-08-01T12:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083534590501908756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082124926375649280",
+          "start": 0,
+          "username": "Yuki281331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/swTsNuH1zq",
+          "end": 54,
+          "expanded_url": "https://x.com/Cxq6666/status/2083534590501908756/photo/1",
+          "media_key": "3_2083534582444683264",
+          "start": 31,
+          "url": "https://t.co/swTsNuH1zq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083534590501908756",
+    "in_reply_to_user_id": "2082124926375649280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083512865848447103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki281331 我这么发三个小时之内就给我申诉成功了 https://t.co/swTsNuH1zq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083534582444683264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOozqefbcAAH03L.jpg",
+        "width": 942
+      },
+      {
+        "height": 1724,
+        "media_key": "3_2083512858437095424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOof5-QaEAAlZka.jpg",
+        "width": 1956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083534582444683264"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083512865848447103",
+        "created_at": "2026-08-01T12:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083534590501908756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082124926375649280",
+              "start": 0,
+              "username": "Yuki281331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/swTsNuH1zq",
+              "end": 54,
+              "expanded_url": "https://x.com/Cxq6666/status/2083534590501908756/photo/1",
+              "media_key": "3_2083534582444683264",
+              "start": 31,
+              "url": "https://t.co/swTsNuH1zq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083534590501908756",
+        "in_reply_to_user_id": "2082124926375649280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083512865848447103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki281331 我这么发三个小时之内就给我申诉成功了 https://t.co/swTsNuH1zq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083512858437095424"
+          ]
+        },
+        "author_id": "2082124926375649280",
+        "conversation_id": "2083512865848447103",
+        "created_at": "2026-08-01T11:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083512865848447103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ckgZYp4aPS",
+              "end": 44,
+              "expanded_url": "https://x.com/Yuki281331/status/2083512865848447103/photo/1",
+              "media_key": "3_2083512858437095424",
+              "start": 21,
+              "url": "https://t.co/ckgZYp4aPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083512865848447103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "申诉失败。违反了马斯克老母不真实的规定。 https://t.co/ckgZYp4aPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 164,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 102,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

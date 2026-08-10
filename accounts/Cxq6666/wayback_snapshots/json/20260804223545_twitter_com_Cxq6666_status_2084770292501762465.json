@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084552463160611291",
+    "created_at": "2026-08-04T22:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T23:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084770292501762465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884490601770672128",
+          "start": 0,
+          "username": "shgdi184733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084770292501762465",
+    "in_reply_to_user_id": "1884490601770672128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084710820244857076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shgdi184733 现在x上发一条手臂的图都被误封认为是血图，发个药就误封认为是du..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084552463160611291",
+        "created_at": "2026-08-04T22:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084770292501762465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884490601770672128",
+              "start": 0,
+              "username": "shgdi184733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084770292501762465",
+        "in_reply_to_user_id": "1884490601770672128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084710820244857076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shgdi184733 现在x上发一条手臂的图都被误封认为是血图，发个药就误封认为是du..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884490601770672128",
+        "conversation_id": "2084552463160611291",
+        "created_at": "2026-08-04T18:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084710820244857076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084710820244857076",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084552463160611291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 错误的  我前两天买了把武士刀  拍照发到qq空间里被审核ban了  之前我发过几张k线图也被ban了  傻逼审核  至少我在推上不用各种模糊字词来骂人😋可以放心骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 192,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T06:36:09.000Z",
+        "description": "寄生在互联网上的幽灵  |  想存活在你的心里💙  |  为短暂的生命带来刹那的欢笑与悲伤  |  想成为海一般的云^•͈༝•^ฅ",
+        "id": "1884490601770672128",
+        "name": "雲上幽靈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059623861247954945/-01296Ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 143,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "shgdi184733",
+        "verified": false
+      }
+    ]
+  }
+}

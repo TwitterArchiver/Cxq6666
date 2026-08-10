@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084080991233274032",
+    "created_at": "2026-08-03T11:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084238541752766659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965675376946151425",
+          "start": 0,
+          "username": "wooodonggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084238541752766659",
+    "in_reply_to_user_id": "1965675376946151425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084237845733228708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wooodonggg 谢谢老大！我蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084080991233274032",
+        "created_at": "2026-08-03T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084238541752766659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965675376946151425",
+              "start": 0,
+              "username": "wooodonggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084238541752766659",
+        "in_reply_to_user_id": "1965675376946151425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084237845733228708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wooodonggg 谢谢老大！我蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965675376946151425",
+        "conversation_id": "2084080991233274032",
+        "created_at": "2026-08-03T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084237845733228708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084237845733228708",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084080991233274032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 我找到一个价格还不错的药商 刚买了一盒回来试试 可以的话我推你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 194,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T07:15:12.000Z",
+        "description": "",
+        "id": "1965675376946151425",
+        "location": "天堂",
+        "name": "乌冬",
+        "pinned_tweet_id": "2004613677232930918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992772839469150208/A-j8v2_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5652,
+          "following_count": 60,
+          "like_count": 568,
+          "listed_count": 17,
+          "media_count": 23,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "wooodonggg",
+        "verified": false
+      }
+    ]
+  }
+}

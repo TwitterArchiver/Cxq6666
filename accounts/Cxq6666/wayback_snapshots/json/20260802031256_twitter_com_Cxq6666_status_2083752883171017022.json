@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083380125538852998",
+    "created_at": "2026-08-02T03:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083752883171017022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807035832853041152",
+          "start": 0,
+          "username": "sha_tbno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083752883171017022",
+    "in_reply_to_user_id": "1807035832853041152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083750929447444816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sha_tbno od快乐呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083380125538852998",
+        "created_at": "2026-08-02T03:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083752883171017022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807035832853041152",
+              "start": 0,
+              "username": "sha_tbno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083752883171017022",
+        "in_reply_to_user_id": "1807035832853041152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083750929447444816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sha_tbno od快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807035832853041152",
+        "conversation_id": "2083380125538852998",
+        "created_at": "2026-08-02T03:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083750929447444816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083750929447444816",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083380125538852998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 这人不是晶哥啊他我朋友…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 171,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T12:58:23.000Z",
+        "description": "https://t.co/Fe9w2yUfu7 ｜性别女",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/shansu09",
+                "end": 23,
+                "expanded_url": "https://t.me/shansu09",
+                "start": 0,
+                "url": "https://t.co/Fe9w2yUfu7"
+              }
+            ]
+          }
+        },
+        "id": "1807035832853041152",
+        "location": "天堂",
+        "name": "山訴",
+        "pinned_tweet_id": "1848235074895982704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829144754237431808/OK9-HE46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 147,
+          "like_count": 4170,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2100
+        },
+        "url": "",
+        "username": "sha_tbno",
+        "verified": false
+      }
+    ]
+  }
+}

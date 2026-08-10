@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084453551485714433",
+        "3_2084453592342343681",
+        "3_2084453650626408448",
+        "3_2084453689214091264"
+      ],
+      "media_source_tweet_id": [
+        "2084534801772470672",
+        "2084534801772470672",
+        "2084534801772470672",
+        "2084534801772470672"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2084651517215375694",
+    "created_at": "2026-08-04T14:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084651517215375694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gLV3gekukq",
+          "end": 84,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+          "media_key": "3_2084453551485714433",
+          "start": 61,
+          "url": "https://t.co/gLV3gekukq"
+        },
+        {
+          "display_url": "pic.x.com/gLV3gekukq",
+          "end": 84,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+          "media_key": "3_2084453592342343681",
+          "start": 61,
+          "url": "https://t.co/gLV3gekukq"
+        },
+        {
+          "display_url": "pic.x.com/gLV3gekukq",
+          "end": 84,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+          "media_key": "3_2084453650626408448",
+          "start": 61,
+          "url": "https://t.co/gLV3gekukq"
+        },
+        {
+          "display_url": "pic.x.com/gLV3gekukq",
+          "end": 84,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+          "media_key": "3_2084453689214091264",
+          "start": 61,
+          "url": "https://t.co/gLV3gekukq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084651517215375694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084534801772470672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 8月3日，浙江一名学生网购化学制剂做实验，遭到警察突击上门，做笔录还要签字画押。 https://t.co/gLV3gekukq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2084453551485714433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO13dg8bgAENUYK.jpg",
+        "width": 968
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2084453592342343681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO13f5JaMAETk14.jpg",
+        "width": 969
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2084453650626408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO13jSRacAAiMNn.jpg",
+        "width": 718
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2084453689214091264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO13liBbwAAXx7Q.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084453551485714433",
+            "3_2084453592342343681",
+            "3_2084453650626408448",
+            "3_2084453689214091264"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2084534801772470672",
+        "created_at": "2026-08-04T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084534801772470672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 64,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453551485714433",
+              "start": 41,
+              "url": "https://t.co/gLV3gekukq"
+            },
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 64,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453592342343681",
+              "start": 41,
+              "url": "https://t.co/gLV3gekukq"
+            },
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 64,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453650626408448",
+              "start": 41,
+              "url": "https://t.co/gLV3gekukq"
+            },
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 64,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453689214091264",
+              "start": 41,
+              "url": "https://t.co/gLV3gekukq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084534801772470672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 94466,
+          "like_count": 364,
+          "quote_count": 3,
+          "reply_count": 127,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "8月3日，浙江一名学生网购化学制剂做实验，遭到警察突击上门，做笔录还要签字画押。 https://t.co/gLV3gekukq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084453551485714433",
+            "3_2084453592342343681",
+            "3_2084453650626408448",
+            "3_2084453689214091264"
+          ],
+          "media_source_tweet_id": [
+            "2084534801772470672",
+            "2084534801772470672",
+            "2084534801772470672",
+            "2084534801772470672"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2084651517215375694",
+        "created_at": "2026-08-04T14:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084651517215375694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453551485714433",
+              "start": 61,
+              "url": "https://t.co/gLV3gekukq"
+            },
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453592342343681",
+              "start": 61,
+              "url": "https://t.co/gLV3gekukq"
+            },
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453650626408448",
+              "start": 61,
+              "url": "https://t.co/gLV3gekukq"
+            },
+            {
+              "display_url": "pic.x.com/gLV3gekukq",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2084534801772470672/photo/1",
+              "media_key": "3_2084453689214091264",
+              "start": 61,
+              "url": "https://t.co/gLV3gekukq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084651517215375694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084534801772470672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 8月3日，浙江一名学生网购化学制剂做实验，遭到警察突击上门，做笔录还要签字画押。 https://t.co/gLV3gekukq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 190,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246064,
+          "following_count": 1081,
+          "like_count": 9841,
+          "listed_count": 8857,
+          "media_count": 51534,
+          "tweet_count": 58790
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

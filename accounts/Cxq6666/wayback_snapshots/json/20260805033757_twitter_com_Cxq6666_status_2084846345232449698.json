@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084802190879891932",
+    "created_at": "2026-08-05T03:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084846345232449698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "997784736591314944",
+          "start": 0,
+          "username": "takuhs0203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084846345232449698",
+    "in_reply_to_user_id": "997784736591314944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084802190879891932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takuhs0203 邦尼？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084802190879891932",
+        "created_at": "2026-08-05T03:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084846345232449698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "997784736591314944",
+              "start": 0,
+              "username": "takuhs0203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084846345232449698",
+        "in_reply_to_user_id": "997784736591314944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084802190879891932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takuhs0203 邦尼？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997784736591314944",
+        "conversation_id": "2084802190879891932",
+        "created_at": "2026-08-05T00:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084802190879891932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084802190879891932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内有没有能买到的大麻有那我攒钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 195,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-19T10:23:13.000Z",
+        "description": "",
+        "id": "997784736591314944",
+        "name": "TottOttoTOt",
+        "pinned_tweet_id": "1596516169850433536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084826680275984384/LF5-xHNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 440,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "takuhs0203",
+        "verified": false
+      }
+    ]
+  }
+}

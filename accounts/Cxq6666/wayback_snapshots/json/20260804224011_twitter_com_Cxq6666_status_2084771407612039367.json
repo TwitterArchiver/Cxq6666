@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083918552617365639",
+    "created_at": "2026-08-04T22:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T23:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084771407612039367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1773028213138292736",
+          "start": 0,
+          "username": "wydwdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084771407612039367",
+    "in_reply_to_user_id": "1773028213138292736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084184059706802234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wydwdf 这怎么不算是一种本性暴露呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083918552617365639",
+        "created_at": "2026-08-04T22:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T23:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084771407612039367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1773028213138292736",
+              "start": 0,
+              "username": "wydwdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084771407612039367",
+        "in_reply_to_user_id": "1773028213138292736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084184059706802234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wydwdf 这怎么不算是一种本性暴露呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773028213138292736",
+        "conversation_id": "2083918552617365639",
+        "created_at": "2026-08-03T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084184059706802234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084184059706802234",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083918552617365639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 想多了操不到你就换一个 双方可选择的都太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 193,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T16:44:11.000Z",
+        "description": "",
+        "id": "1773028213138292736",
+        "name": "2022",
+        "pinned_tweet_id": "2053255979320619325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083798395794358273/WVRXFBx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "wydwdf",
+        "verified": false
+      }
+    ]
+  }
+}

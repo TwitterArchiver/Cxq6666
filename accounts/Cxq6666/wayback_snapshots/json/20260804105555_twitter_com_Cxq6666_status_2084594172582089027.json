@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084586949172424704"
+      ],
+      "media_source_tweet_id": [
+        "2084587082589089947"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084594172582089027",
+    "created_at": "2026-08-04T10:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084594172582089027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1730251057316737024",
+          "start": 3,
+          "username": "SRamirez66171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1BH1HpyKx4",
+          "end": 53,
+          "expanded_url": "https://x.com/SRamirez66171/status/2084587082589089947/photo/1",
+          "media_key": "3_2084586949172424704",
+          "start": 30,
+          "url": "https://t.co/1BH1HpyKx4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084594172582089027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084587082589089947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SRamirez66171: msk你自己笑了没有 https://t.co/1BH1HpyKx4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_2084586949172424704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3wySDWcAA7729.png",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084586949172424704"
+          ]
+        },
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084587082589089947",
+        "created_at": "2026-08-04T10:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084587082589089947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BH1HpyKx4",
+              "end": 34,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084587082589089947/photo/1",
+              "media_key": "3_2084586949172424704",
+              "start": 11,
+              "url": "https://t.co/1BH1HpyKx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587082589089947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "msk你自己笑了没有 https://t.co/1BH1HpyKx4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084586949172424704"
+          ],
+          "media_source_tweet_id": [
+            "2084587082589089947"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084594172582089027",
+        "created_at": "2026-08-04T10:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084594172582089027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1730251057316737024",
+              "start": 3,
+              "username": "SRamirez66171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BH1HpyKx4",
+              "end": 53,
+              "expanded_url": "https://x.com/SRamirez66171/status/2084587082589089947/photo/1",
+              "media_key": "3_2084586949172424704",
+              "start": 30,
+              "url": "https://t.co/1BH1HpyKx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084594172582089027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084587082589089947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SRamirez66171: msk你自己笑了没有 https://t.co/1BH1HpyKx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 191,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 244,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

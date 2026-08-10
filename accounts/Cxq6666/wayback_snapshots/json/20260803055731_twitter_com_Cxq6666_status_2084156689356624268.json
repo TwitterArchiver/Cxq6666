@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084127037359304882",
+    "created_at": "2026-08-03T05:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084156689356624268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2071557546561662976",
+          "start": 0,
+          "username": "huadianksre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084156689356624268",
+    "in_reply_to_user_id": "2071557546561662976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084127037359304882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huadianksre 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084127025686585344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxOfNjXIAAgQFC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084127037359304882",
+        "created_at": "2026-08-03T05:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084156689356624268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071557546561662976",
+              "start": 0,
+              "username": "huadianksre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084156689356624268",
+        "in_reply_to_user_id": "2071557546561662976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084127037359304882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huadianksre 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084127025686585344"
+          ]
+        },
+        "author_id": "2071557546561662976",
+        "conversation_id": "2084127037359304882",
+        "created_at": "2026-08-03T03:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084127037359304882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qe3m9PVg6N",
+              "end": 64,
+              "expanded_url": "https://x.com/huadianksre/status/2084127037359304882/photo/1",
+              "media_key": "3_2084127025686585344",
+              "start": 41,
+              "url": "https://t.co/qe3m9PVg6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084127037359304882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看吧 其实西渡不是我们想选择的 本来和朋友约好去散步 结果被放鸽子 只能回家玩🎈 https://t.co/qe3m9PVg6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 195,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T11:34:29.000Z",
+        "description": "4.17/intj/od/自伤/中抑中焦/解离剂/欢迎互fo",
+        "id": "2071557546561662976",
+        "name": "花店a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076547573498699776/KiFmHIcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 28,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "huadianksre",
+        "verified": false
+      }
+    ]
+  }
+}

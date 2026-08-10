@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2085377615494562063",
+    "created_at": "2026-08-06T14:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085377615494562063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077732421488054272",
+          "start": 3,
+          "username": "FreePGBPlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085377615494562063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085283560571961536",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreePGBPlz: 1.1kg的1.5元低价普瑞巴林已全部售罄，感谢大家支持。\n未来预计销售低价噻奈普汀钠（预测5元/一百毫克）与低价的某种PCP（为安全计售卖时会告知，解离剂，类似雪尘等。一次的常规剂量二十到四十毫克。预测1元每毫克）为预防出现混乱，决定实行预约制…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2085377615494562063",
+        "created_at": "2026-08-06T14:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085377615494562063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077732421488054272",
+              "start": 3,
+              "username": "FreePGBPlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085377615494562063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085283560571961536",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreePGBPlz: 1.1kg的1.5元低价普瑞巴林已全部售罄，感谢大家支持。\n未来预计销售低价噻奈普汀钠（预测5元/一百毫克）与低价的某种PCP（为安全计售卖时会告知，解离剂，类似雪尘等。一次的常规剂量二十到四十毫克。预测1元每毫克）为预防出现混乱，决定实行预约制…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077732421488054272",
+        "conversation_id": "2085283560571961536",
+        "created_at": "2026-08-06T08:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085283560571961536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085283560571961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "1.1kg的1.5元低价普瑞巴林已全部售罄，感谢大家支持。\n未来预计销售低价噻奈普汀钠（预测5元/一百毫克）与低价的某种PCP（为安全计售卖时会告知，解离剂，类似雪尘等。一次的常规剂量二十到四十毫克。预测1元每毫克）为预防出现混乱，决定实行预约制，按需求进货，先到先得，希望大家能继续支持我们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 195,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "name": "PGB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false
+      }
+    ]
+  }
+}

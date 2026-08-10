@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2082975676236534161",
+    "created_at": "2026-08-01T02:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083383692597293484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863253705971392512",
+          "start": 0,
+          "username": "ECbkriegaQ24835"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083383692597293484",
+    "in_reply_to_user_id": "1863253705971392512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082975676236534161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ECbkriegaQ24835 右佐匹克隆？加巴喷丁也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2082975676236534161",
+        "created_at": "2026-08-01T02:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083383692597293484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863253705971392512",
+              "start": 0,
+              "username": "ECbkriegaQ24835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083383692597293484",
+        "in_reply_to_user_id": "1863253705971392512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082975676236534161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ECbkriegaQ24835 右佐匹克隆？加巴喷丁也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863253705971392512",
+        "conversation_id": "2082975676236534161",
+        "created_at": "2026-07-30T23:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082975676236534161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082975676236534161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有什么药可以磕啊，没有普瑞和右美我真的很难过🥹   #od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 153,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T16:08:04.000Z",
+        "description": "",
+        "id": "1863253705971392512",
+        "name": "颓鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864252120352083972/eFrSvJvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 181,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "ECbkriegaQ24835",
+        "verified": false
+      }
+    ]
+  }
+}

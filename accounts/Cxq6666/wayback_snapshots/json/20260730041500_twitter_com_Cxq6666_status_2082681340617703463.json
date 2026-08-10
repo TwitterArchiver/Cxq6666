@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2082681340617703463",
+    "created_at": "2026-07-30T04:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082681340617703463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x_xcheryi0719/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/x_xcheryi0719/status/2082397470101999754",
+          "start": 17,
+          "url": "https://t.co/4Lwql9egwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082681340617703463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082397470101999754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家都来fo这个cheryi宝宝 https://t.co/4Lwql9egwQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2082681340617703463",
+        "created_at": "2026-07-30T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082681340617703463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x_xcheryi0719/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/x_xcheryi0719/status/2082397470101999754",
+              "start": 17,
+              "url": "https://t.co/4Lwql9egwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082681340617703463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082397470101999754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都来fo这个cheryi宝宝 https://t.co/4Lwql9egwQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082396665449996288",
+        "conversation_id": "2082397470101999754",
+        "created_at": "2026-07-29T09:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082397470101999754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082397470101999754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是cheryi我号被封重生了 正在寻回互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 150,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T09:25:16.000Z",
+        "description": "",
+        "id": "2082396665449996288",
+        "name": "チェリーちゃん🖤(2.0)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082397219412688896/jrs5jCwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "x_xcheryi0719",
+        "verified": false
+      }
+    ]
+  }
+}

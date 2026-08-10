@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083225777437630464"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083225787956957315",
+    "created_at": "2026-07-31T16:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083225787956957315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlewNZwUB7",
+          "end": 41,
+          "expanded_url": "https://x.com/Cxq6666/status/2083225787956957315/photo/1",
+          "media_key": "3_2083225777437630464",
+          "start": 18,
+          "url": "https://t.co/nlewNZwUB7"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01a20da949498784"
+    },
+    "id": "2083225787956957315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉健身一个月获得了0点训练痕迹 https://t.co/nlewNZwUB7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [01a20da949498784].",
+      "parameter": "geo.place_id",
+      "resource_id": "01a20da949498784",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "01a20da949498784"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083225777437630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkazqMbYAAWG5o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083225777437630464"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083225787956957315",
+        "created_at": "2026-07-31T16:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083225787956957315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlewNZwUB7",
+              "end": 41,
+              "expanded_url": "https://x.com/Cxq6666/status/2083225787956957315/photo/1",
+              "media_key": "3_2083225777437630464",
+              "start": 18,
+              "url": "https://t.co/nlewNZwUB7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01a20da949498784"
+        },
+        "id": "2083225787956957315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉健身一个月获得了0点训练痕迹 https://t.co/nlewNZwUB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 149,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

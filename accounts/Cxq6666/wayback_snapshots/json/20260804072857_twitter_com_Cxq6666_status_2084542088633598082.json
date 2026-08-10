@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084517018309726296",
+    "created_at": "2026-08-04T07:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084542088633598082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084542088633598082",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084517018309726296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 妈妈你怎么这么瘦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1823,
+        "media_key": "3_2084517010168557568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2xLS9bMAAgKfN.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084517018309726296",
+        "created_at": "2026-08-04T07:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084542088633598082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084542088633598082",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084517018309726296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 妈妈你怎么这么瘦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084517010168557568"
+          ]
+        },
+        "author_id": "2061434565323886592",
+        "conversation_id": "2084517018309726296",
+        "created_at": "2026-08-04T05:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084517018309726296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSBZYyBZdq",
+              "end": 23,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2084517018309726296/photo/1",
+              "media_key": "3_2084517010168557568",
+              "start": 0,
+              "url": "https://t.co/NSBZYyBZdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084517018309726296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NSBZYyBZdq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 191,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "lesbian",
+        "id": "2061434565323886592",
+        "location": "台湾",
+        "name": "zuopikelong",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083086655200587776/F2wErp_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 81,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false
+      }
+    ]
+  }
+}

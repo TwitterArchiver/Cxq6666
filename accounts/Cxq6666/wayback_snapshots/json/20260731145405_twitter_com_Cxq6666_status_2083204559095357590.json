@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083187456074186791",
+    "created_at": "2026-07-31T14:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083204559095357590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2082396665449996288",
+          "start": 0,
+          "username": "x_xcheryi0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083204559095357590",
+    "in_reply_to_user_id": "2082396665449996288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083187456074186791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcheryi0719 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083187456074186791",
+        "created_at": "2026-07-31T14:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083204559095357590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2082396665449996288",
+              "start": 0,
+              "username": "x_xcheryi0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083204559095357590",
+        "in_reply_to_user_id": "2082396665449996288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083187456074186791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcheryi0719 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082396665449996288",
+        "conversation_id": "2083187456074186791",
+        "created_at": "2026-07-31T13:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083187456074186791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083187456074186791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得自己特别自私 因为我恨我父母不给我钱 让我每天都是收门槛去下海都想法 就为了嗑药 但嗑药也是我自找的麻烦 所以我觉得自己不要活着了比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 147,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T09:25:16.000Z",
+        "description": "一个穷鬼，毒虫。\n10年，双相oder",
+        "id": "2082396665449996288",
+        "name": "チェリーちゃん🖤(2.0)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082397219412688896/jrs5jCwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "x_xcheryi0719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083340214735348201",
+    "created_at": "2026-08-01T02:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083381769773232317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083381769773232317",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083340214735348201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083340204916568064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmC4NxXcAAudHA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083340214735348201",
+        "created_at": "2026-08-01T02:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083381769773232317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083381769773232317",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083340214735348201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083340204916568064"
+          ]
+        },
+        "author_id": "2061434565323886592",
+        "conversation_id": "2083340214735348201",
+        "created_at": "2026-07-31T23:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083340214735348201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWGqhDU85l",
+              "end": 30,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2083340214735348201/photo/1",
+              "media_key": "3_2083340204916568064",
+              "start": 7,
+              "url": "https://t.co/UWGqhDU85l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083340214735348201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两天瘦了4斤 https://t.co/UWGqhDU85l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 153,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "药物会带我们逃离这个扭曲的世界 /wlw /重度焦虑 /偏执 /双向 /自毁/od/台独 只是为了体验快乐 喜欢的会互fo( ̀⌄ ́)我是个很好相处的lesbian 活着只是为了体验快乐男的不要关注我 互相尊重是作为人类的最基本的 基督教",
+        "id": "2061434565323886592",
+        "location": "台湾",
+        "name": "正常人我想当",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083086655200587776/F2wErp_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 0,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false
+      }
+    ]
+  }
+}
