@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2096204452458045933",
+    "created_at": "2026-09-05T11:51:01.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096204452458045933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1653096357593243656",
+          "start": 3,
+          "username": "istgnolimit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096204452458045933",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095709771898798142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @istgnolimit: \"oh ok\" actually means my heart just got ripped into a million pieces"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2096204452458045933",
+        "created_at": "2026-09-05T11:51:01.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096204452458045933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1653096357593243656",
+              "start": 3,
+              "username": "istgnolimit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096204452458045933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095709771898798142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @istgnolimit: \"oh ok\" actually means my heart just got ripped into a million pieces"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653096357593243656",
+        "conversation_id": "2095709771898798142",
+        "created_at": "2026-09-04T03:05:20.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095709771898798142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095709771898798142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 103629,
+          "like_count": 10946,
+          "quote_count": 69,
+          "reply_count": 3,
+          "retweet_count": 3239
+        },
+        "reply_settings": "everyone",
+        "text": "\"oh ok\" actually means my heart just got ripped into a million pieces"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2096204452458045933",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 198,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-01T17:57:56.000Z",
+        "description": "perfection is a myth, just be real",
+        "id": "1653096357593243656",
+        "is_identity_verified": false,
+        "location": "solace ",
+        "most_recent_tweet_id": "2096185553154650427",
+        "name": "✮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653096357593243656/1784350415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044678977910964224/cciBEy8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 1081,
+          "like_count": 199954,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 13224
+        },
+        "url": "",
+        "username": "istgnolimit",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

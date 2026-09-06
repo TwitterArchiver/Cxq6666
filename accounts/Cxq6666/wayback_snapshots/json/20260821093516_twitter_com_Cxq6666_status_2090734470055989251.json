@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2090325841150664966",
+    "created_at": "2026-08-21T09:35:16.000Z",
+    "display_text_range": [
+      27,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090734470055989251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "830242535360507904",
+          "start": 0,
+          "username": "Chanyfgh"
+        },
+        {
+          "end": 26,
+          "id": "2047894021457211393",
+          "start": 10,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090734470055989251",
+    "in_reply_to_user_id": "830242535360507904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090732794532220941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chanyfgh @IiRin_00917_QwQ 愈美片有愈创木酚甘油醚啊，可以化痰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2090325841150664966",
+        "created_at": "2026-08-21T09:35:16.000Z",
+        "display_text_range": [
+          27,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090734470055989251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "830242535360507904",
+              "start": 0,
+              "username": "Chanyfgh"
+            },
+            {
+              "end": 26,
+              "id": "2047894021457211393",
+              "start": 10,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090734470055989251",
+        "in_reply_to_user_id": "830242535360507904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090732794532220941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chanyfgh @IiRin_00917_QwQ 愈美片有愈创木酚甘油醚啊，可以化痰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830242535360507904",
+        "conversation_id": "2090325841150664966",
+        "created_at": "2026-08-21T09:28:36.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090732794532220941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090732794532220941",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090325841150664966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ 愈美片只止咳不化痰，所以适合治疗干咳"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2090734470055989251",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 203,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-11T02:30:20.000Z",
+        "description": "MTF 天空树女孩 HRT From 6.21.2022    \n 是@chengyiga的老婆 也是主仆关系",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "830242535360507904",
+        "is_identity_verified": false,
+        "location": "六安",
+        "most_recent_tweet_id": "2090732794532220941",
+        "name": "洛米酱 Kuromi-chan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830242535360507904/1704025745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611347283123245058/HHQ20db0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 550,
+          "like_count": 866,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "Chanyfgh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nmtx/hrt：25-06-23/家暴党-天赋党\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@Surajazeem❀家族耻辱@woaiuai0721❀🐱@linring2010❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "Surajazeem"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "linring2010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2090552607140204941",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2032,
+          "following_count": 131,
+          "like_count": 7103,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

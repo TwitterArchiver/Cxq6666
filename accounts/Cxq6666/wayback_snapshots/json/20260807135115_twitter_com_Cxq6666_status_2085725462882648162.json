@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2085725462882648162",
+    "created_at": "2026-08-07T13:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085725462882648162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a2517337359/st…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/a2517337359/status/2085699781436051586",
+          "start": 79,
+          "url": "https://t.co/iUUjZPMMX0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085725462882648162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085699781436051586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我一直很反对这个观点  男同做爱从来没有人说0被操就吃亏了   只要双方都有意愿都同意那就不存在谁吃亏  觉得女的吃亏的就是在否认女性也有追求性爱的自由 https://t.co/iUUjZPMMX0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2085725462882648162",
+        "created_at": "2026-08-07T13:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085725462882648162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a2517337359/st…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/a2517337359/status/2085699781436051586",
+              "start": 79,
+              "url": "https://t.co/iUUjZPMMX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085725462882648162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085699781436051586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我一直很反对这个观点  男同做爱从来没有人说0被操就吃亏了   只要双方都有意愿都同意那就不存在谁吃亏  觉得女的吃亏的就是在否认女性也有追求性爱的自由 https://t.co/iUUjZPMMX0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591959828573757440",
+        "conversation_id": "2085699781436051586",
+        "created_at": "2026-08-07T12:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085699781436051586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085699781436051586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一男一女发生关系，人们会觉得男的占便宜了，女的吃亏？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 196,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T01:03:22.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/dKXzgYeQRH"
+              }
+            ]
+          }
+        },
+        "id": "1591959828573757440",
+        "location": "1.2km",
+        "name": "水希ちゃん🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 244,
+          "like_count": 464,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/dKXzgYeQRH",
+        "username": "a2517337359",
+        "verified": false
+      }
+    ]
+  }
+}

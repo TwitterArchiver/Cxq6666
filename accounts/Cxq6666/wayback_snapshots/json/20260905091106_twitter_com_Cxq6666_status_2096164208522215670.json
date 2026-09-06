@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2096164208522215670",
+    "created_at": "2026-09-05T09:11:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096164208522215670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2017909057764691968",
+          "start": 3,
+          "username": "IMeoroll57559"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096164208522215670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095782073403584586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IMeoroll57559: 如果在放下某人或某事后 你的心有点痛 没关系 这只能说明你的感情是真挚的 没有人喜欢结束 也没有人喜欢痛苦，但有时候 我们不得不结束那些曾经美好的事物 因为它们对我们的健康有害 并不是每一个新的开始都会持续下去，也不是每一个人走进你的生活都…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2096164208522215670",
+        "created_at": "2026-09-05T09:11:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096164208522215670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2017909057764691968",
+              "start": 3,
+              "username": "IMeoroll57559"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096164208522215670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095782073403584586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IMeoroll57559: 如果在放下某人或某事后 你的心有点痛 没关系 这只能说明你的感情是真挚的 没有人喜欢结束 也没有人喜欢痛苦，但有时候 我们不得不结束那些曾经美好的事物 因为它们对我们的健康有害 并不是每一个新的开始都会持续下去，也不是每一个人走进你的生活都…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017909057764691968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2095782073403584586",
+        "created_at": "2026-09-04T07:52:38.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095782073403584586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095782073403584586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 10627,
+          "like_count": 478,
+          "quote_count": 7,
+          "reply_count": 35,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "如果在放下某人或某事后 你的心有点痛 没关系 这只能说明你的感情是真挚的 没有人喜欢结束 也没有人喜欢痛苦，但有时候 我们不得不结束那些曾经美好的事物 因为它们对我们的健康有害 并不是每一个新的开始都会持续下去，也不是每一个人走进你的生活都会留下来"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2096164208522215670",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 197,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T10:33:21.000Z",
+        "description": "普通女孩｜04｜爱发些文案",
+        "id": "2017909057764691968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096162658781372702",
+        "name": "Iris (Meoroll、)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017909057764691968/1787978037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093889977088454656/08s1EAZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "IMeoroll57559",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

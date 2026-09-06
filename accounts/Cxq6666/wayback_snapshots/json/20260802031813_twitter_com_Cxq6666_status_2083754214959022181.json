@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2083380125538852998",
+    "created_at": "2026-08-02T03:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T04:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083754214959022181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2074103923124920321",
+          "start": 0,
+          "username": "OnoderaYuu_714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083754214959022181",
+    "in_reply_to_user_id": "2074103923124920321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083750868692951295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnoderaYuu_714 我天呐太诡异了那一起od快乐吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2083380125538852998",
+        "created_at": "2026-08-02T03:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083754214959022181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2074103923124920321",
+              "start": 0,
+              "username": "OnoderaYuu_714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083754214959022181",
+        "in_reply_to_user_id": "2074103923124920321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083750868692951295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnoderaYuu_714 我天呐太诡异了那一起od快乐吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074103923124920321",
+        "conversation_id": "2083380125538852998",
+        "created_at": "2026-08-02T03:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083750868692951295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083750868692951295",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083380125538852998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 这人不是晶呀宝宝们，他还在我推荐的药商那买过药呢，他一个人o比较焦虑想找人一起o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 172,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T12:12:46.000Z",
+        "description": "",
+        "id": "2074103923124920321",
+        "name": "OnoderaYuu2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074105778508840960/18StFUCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "OnoderaYuu_714",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2084323292974829687",
+    "created_at": "2026-08-04T03:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084485239120990224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084485239120990224",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084323292974829687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2084323277191659520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0A-jYWQAATDre.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084323277204299776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0A-jbXIAAIicO.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084323277221040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0A-jfWkAAKaLK.jpg",
+        "width": 1432
+      },
+      {
+        "height": 1941,
+        "media_key": "3_2084323277200089088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0A-jaW4AAp791.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2084323292974829687",
+        "created_at": "2026-08-04T03:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084485239120990224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084485239120990224",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084323292974829687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084323277191659520",
+            "3_2084323277204299776",
+            "3_2084323277221040128",
+            "3_2084323277200089088"
+          ]
+        },
+        "author_id": "2061434565323886592",
+        "conversation_id": "2084323292974829687",
+        "created_at": "2026-08-03T16:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084323292974829687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e2vrJyjAFZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2084323292974829687/photo/1",
+              "media_key": "3_2084323277191659520",
+              "start": 13,
+              "url": "https://t.co/e2vrJyjAFZ"
+            },
+            {
+              "display_url": "pic.x.com/e2vrJyjAFZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2084323292974829687/photo/1",
+              "media_key": "3_2084323277204299776",
+              "start": 13,
+              "url": "https://t.co/e2vrJyjAFZ"
+            },
+            {
+              "display_url": "pic.x.com/e2vrJyjAFZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2084323292974829687/photo/1",
+              "media_key": "3_2084323277221040128",
+              "start": 13,
+              "url": "https://t.co/e2vrJyjAFZ"
+            },
+            {
+              "display_url": "pic.x.com/e2vrJyjAFZ",
+              "end": 36,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2084323292974829687/photo/1",
+              "media_key": "3_2084323277200089088",
+              "start": 13,
+              "url": "https://t.co/e2vrJyjAFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084323292974829687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是姐感 。但可能不是姐。 https://t.co/e2vrJyjAFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 197,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "lesbian",
+        "id": "2061434565323886592",
+        "location": "台湾",
+        "name": "zuopikelong",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083086655200587776/F2wErp_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 82,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false
+      }
+    ]
+  }
+}

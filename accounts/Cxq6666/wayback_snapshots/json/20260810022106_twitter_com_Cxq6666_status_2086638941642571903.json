@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2086617676689129576",
+    "created_at": "2026-08-10T02:21:06.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086638941642571903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2085350468159770624",
+          "start": 0,
+          "username": "x_xcheryio719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086638941642571903",
+    "in_reply_to_user_id": "2085350468159770624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086617676689129576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xcheryio719 我理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2086617676689129576",
+        "created_at": "2026-08-10T02:21:06.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086638941642571903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2085350468159770624",
+              "start": 0,
+              "username": "x_xcheryio719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086638941642571903",
+        "in_reply_to_user_id": "2085350468159770624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086617676689129576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xcheryio719 我理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085350468159770624",
+        "conversation_id": "2086617676689129576",
+        "created_at": "2026-08-10T00:56:36.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086617676689129576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086617676689129576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本没人理我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2086638941642571903",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 198,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 806
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T13:02:40.000Z",
+        "description": "10年/双相/",
+        "id": "2085350468159770624",
+        "is_identity_verified": false,
+        "location": "🚪52纯绿",
+        "most_recent_tweet_id": "2086617676689129576",
+        "name": "チェリーちゃん🖤(3.0已老实)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085350468159770624/1786021654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085350972294074368/xemrVdtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "x_xcheryio719",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092170536382255105"
+      ],
+      "media_source_tweet_id": [
+        "2092170843078144371"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2095304261324443968",
+    "created_at": "2026-09-03T00:13:59.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T01:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095304261324443968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1361944640325255170",
+          "start": 3,
+          "username": "Druglab_xiaohao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uz4D0EuSWE",
+          "end": 91,
+          "expanded_url": "https://x.com/Druglab_xiaohao/status/2092170843078144371/photo/1",
+          "media_key": "3_2092170536382255105",
+          "start": 68,
+          "url": "https://t.co/uz4D0EuSWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095304261324443968",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092170536382255105"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092170843078144371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Druglab_xiaohao: 这是我找的国内没有什么使用记录的有明显精神活性的完全合法的植物提取物，主要是赚个信息差的钱。 https://t.co/uz4D0EuSWE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2092170536382255105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjiBJ6aUAE4VfW.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092170536382255105"
+          ],
+          "media_source_tweet_id": [
+            "2092170843078144371"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2095304261324443968",
+        "created_at": "2026-09-03T00:13:59.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T01:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095304261324443968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1361944640325255170",
+              "start": 3,
+              "username": "Druglab_xiaohao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uz4D0EuSWE",
+              "end": 91,
+              "expanded_url": "https://x.com/Druglab_xiaohao/status/2092170843078144371/photo/1",
+              "media_key": "3_2092170536382255105",
+              "start": 68,
+              "url": "https://t.co/uz4D0EuSWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095304261324443968",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092170536382255105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092170843078144371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Druglab_xiaohao: 这是我找的国内没有什么使用记录的有明显精神活性的完全合法的植物提取物，主要是赚个信息差的钱。 https://t.co/uz4D0EuSWE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092170536382255105"
+          ]
+        },
+        "author_id": "1361944640325255170",
+        "conversation_id": "2092170843078144371",
+        "created_at": "2026-08-25T08:42:54.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092170843078144371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uz4D0EuSWE",
+              "end": 70,
+              "expanded_url": "https://x.com/Druglab_xiaohao/status/2092170843078144371/photo/1",
+              "media_key": "3_2092170536382255105",
+              "start": 47,
+              "url": "https://t.co/uz4D0EuSWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092170843078144371",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092170536382255105"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 33221,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这是我找的国内没有什么使用记录的有明显精神活性的完全合法的植物提取物，主要是赚个信息差的钱。 https://t.co/uz4D0EuSWE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2095304261324443968",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 196,
+          "like_count": 1161,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-17T07:44:52.000Z",
+        "description": "就是小号啦。",
+        "id": "1361944640325255170",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092170843078144371",
+        "name": "药实小号",
+        "pinned_tweet_id": "2029173339965800918",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029170564368351234/eLqnP9xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Druglab_xiaohao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

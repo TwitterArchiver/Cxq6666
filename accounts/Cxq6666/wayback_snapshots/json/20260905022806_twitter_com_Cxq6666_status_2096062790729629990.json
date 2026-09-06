@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2096062790729629990",
+    "created_at": "2026-09-05T02:28:06.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096062790729629990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/life1564847/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/life1564847/status/2095529372866191417",
+          "start": 6,
+          "url": "https://t.co/Cs6seF03uE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096062790729629990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095529372866191417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要演我了 https://t.co/Cs6seF03uE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2096062790729629990",
+        "created_at": "2026-09-05T02:28:06.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096062790729629990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/life1564847/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/life1564847/status/2095529372866191417",
+              "start": 6,
+              "url": "https://t.co/Cs6seF03uE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096062790729629990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095529372866191417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要演我了 https://t.co/Cs6seF03uE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027535879682854912",
+        "conversation_id": "2095529372866191417",
+        "created_at": "2026-09-03T15:08:30.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095529372866191417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095529372866191417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 60543,
+          "like_count": 2730,
+          "quote_count": 45,
+          "reply_count": 188,
+          "retweet_count": 577
+        },
+        "reply_settings": "everyone",
+        "text": "唉。你不能这样呀。你要多哄哄我呀。你要叫我宝宝呀。你要说你想我了呀。你要对我撒娇呀。你要表现出在意我的样子呀。你要说喜欢我呀。你要说你离不开我呀。你要说你只有我一个人呀。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2096062790729629990",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 197,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。最近很少上。\n这个是匿名提问https://t.co/hozAZCEENM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/life36465",
+                "end": 48,
+                "expanded_url": "https://ngl.link/life36465",
+                "start": 25,
+                "url": "https://t.co/hozAZCEENM"
+              }
+            ]
+          }
+        },
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2095530036891644065",
+        "name": "life",
+        "pinned_tweet_id": "2093335692801683577",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 93,
+          "like_count": 7690,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 940
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

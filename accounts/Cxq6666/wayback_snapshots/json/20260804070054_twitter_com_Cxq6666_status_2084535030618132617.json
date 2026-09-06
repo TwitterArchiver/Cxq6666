@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084535020270845952"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084535030618132617",
+    "created_at": "2026-08-04T07:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084535030618132617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "2060247807693643776",
+          "start": 15,
+          "username": "Illnessjhlw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5CqZEbinCR",
+          "end": 51,
+          "expanded_url": "https://x.com/Cxq6666/status/2084535030618132617/photo/1",
+          "media_key": "3_2084535020270845952",
+          "start": 28,
+          "url": "https://t.co/5CqZEbinCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084535030618132617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我小唯宝宝送我的轻松熊好可爱呀@Illnessjhlw https://t.co/5CqZEbinCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084535020270845952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Bjn0bAAAsKgM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084535020270845952"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084535030618132617",
+        "created_at": "2026-08-04T07:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084535030618132617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2060247807693643776",
+              "start": 15,
+              "username": "Illnessjhlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CqZEbinCR",
+              "end": 51,
+              "expanded_url": "https://x.com/Cxq6666/status/2084535030618132617/photo/1",
+              "media_key": "3_2084535020270845952",
+              "start": 28,
+              "url": "https://t.co/5CqZEbinCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084535030618132617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小唯宝宝送我的轻松熊好可爱呀@Illnessjhlw https://t.co/5CqZEbinCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 191,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T06:32:38.000Z",
+        "description": "这里是小零 11年|od|自伤 LGBT友好 不支持墙内发、带人药物滥用 不涉政 喜欢同类看见会直接回欢迎互fo喵\nhttps://t.co/yL4xHnAqUh 提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youareaweirdo",
+                "end": 81,
+                "expanded_url": "https://ngl.link/youareaweirdo",
+                "start": 58,
+                "url": "https://t.co/yL4xHnAqUh"
+              }
+            ]
+          }
+        },
+        "id": "2060247807693643776",
+        "name": "Illness",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080656404353019904/tL2NlxE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 148,
+          "like_count": 3723,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "Illnessjhlw",
+        "verified": false
+      }
+    ]
+  }
+}

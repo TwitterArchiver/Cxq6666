@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2087419706076766707",
+    "created_at": "2026-08-12T06:03:34.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087419706076766707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_wuming/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/drug_wuming/status/2087417243986780598",
+          "start": 18,
+          "url": "https://t.co/LlbOMhs2ZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087419706076766707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087417243986780598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们只是不想让我死，但没想让我活着 https://t.co/LlbOMhs2ZR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2087419706076766707",
+        "created_at": "2026-08-12T06:03:34.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087419706076766707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_wuming/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/drug_wuming/status/2087417243986780598",
+              "start": 18,
+              "url": "https://t.co/LlbOMhs2ZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087419706076766707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087417243986780598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们只是不想让我死，但没想让我活着 https://t.co/LlbOMhs2ZR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2087417243986780598",
+        "created_at": "2026-08-12T05:53:47.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087417243986780598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087417243986780598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本没有人在乎你，你爹妈也不在乎你，朋友恋人也不会在乎你，你自己也做不到在乎自己，这一切都是没有意义的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2087419706076766707",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 207,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "OXO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087418250913304821",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916974498903166978/1746048478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087362322327285760/YyOISPAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1091,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

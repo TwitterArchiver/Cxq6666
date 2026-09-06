@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086846568691535872"
+      ],
+      "media_source_tweet_id": [
+        "2086846578434941211"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2086872353330561312",
+    "created_at": "2026-08-10T17:48:35.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086872353330561312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057835400790462464",
+          "start": 3,
+          "username": "kimika37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3stEABCg4K",
+          "end": 37,
+          "expanded_url": "https://x.com/kimika37/status/2086846578434941211/photo/1",
+          "media_key": "3_2086846568691535872",
+          "start": 14,
+          "url": "https://t.co/3stEABCg4K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086872353330561312",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086846568691535872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086846578434941211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimika37: https://t.co/3stEABCg4K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2086846568691535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPX35cuaEAAsdV7.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086846568691535872"
+          ]
+        },
+        "author_id": "2057835400790462464",
+        "conversation_id": "2086846578434941211",
+        "created_at": "2026-08-10T16:06:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T17:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086846578434941211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3stEABCg4K",
+              "end": 23,
+              "expanded_url": "https://x.com/kimika37/status/2086846578434941211/photo/1",
+              "media_key": "3_2086846568691535872",
+              "start": 0,
+              "url": "https://t.co/3stEABCg4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086846578434941211",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086846568691535872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3stEABCg4K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086846568691535872"
+          ],
+          "media_source_tweet_id": [
+            "2086846578434941211"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2086872353330561312",
+        "created_at": "2026-08-10T17:48:35.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086872353330561312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057835400790462464",
+              "start": 3,
+              "username": "kimika37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3stEABCg4K",
+              "end": 37,
+              "expanded_url": "https://x.com/kimika37/status/2086846578434941211/photo/1",
+              "media_key": "3_2086846568691535872",
+              "start": 14,
+              "url": "https://t.co/3stEABCg4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086872353330561312",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086846568691535872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086846578434941211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimika37: https://t.co/3stEABCg4K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2086872353330561312",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 203,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "09｜温良边缘人\noder｜🔪🩸｜友跨友一切\n我的宝宝OvO @xiaotunsalutee \n我的主人TvT @AngelIlIIl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "xiaotunsalutee"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "AngelIlIIl"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2086857180146507821",
+        "name": "Curse2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1785942687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085020979290640384/FjX4cCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 202,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

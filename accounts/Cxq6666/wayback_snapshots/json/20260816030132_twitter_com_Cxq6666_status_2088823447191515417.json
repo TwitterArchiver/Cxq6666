@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2088626741711720534",
+    "created_at": "2026-08-16T03:01:32.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088823447191515417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088823447191515417",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088626741711720534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 我去我蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2088626741711720534",
+        "created_at": "2026-08-16T03:01:32.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088823447191515417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088823447191515417",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088626741711720534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 我去我蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061434565323886592",
+        "conversation_id": "2088626741711720534",
+        "created_at": "2026-08-15T13:59:54.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088626741711720534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088626741711720534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo福利\n1.100r\n2.52\n3.8.88\n100fo的时候下个月开奖喵。\n欢迎找我聊天"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2088823447191515417",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 203,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "lesbian/sns治疗中。",
+        "id": "2061434565323886592",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2088626741711720534",
+        "name": "pikelong",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061434565323886592/1784355576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085775076025413632/atPX_D4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 76,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

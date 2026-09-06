@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2087756584646754313",
+    "created_at": "2026-08-13T04:22:13.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087756584646754313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/robin_che/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/robin_che/status/2087731442348679377",
+          "start": 8,
+          "url": "https://t.co/mbOiSnwX1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087756584646754313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087731442348679377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吗的我要笑死了 https://t.co/mbOiSnwX1I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2087756584646754313",
+        "created_at": "2026-08-13T04:22:13.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087756584646754313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/robin_che/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/robin_che/status/2087731442348679377",
+              "start": 8,
+              "url": "https://t.co/mbOiSnwX1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087756584646754313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087731442348679377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吗的我要笑死了 https://t.co/mbOiSnwX1I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1299307448747077632",
+        "conversation_id": "2087579896998678553",
+        "created_at": "2026-08-13T02:42:18.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087731442348679377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087731442348679377",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5173,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087579896998678553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 刷了半天就他家的椅子能坐人，比他牢固的沒他便宜，比他便宜的沒他舒服☝🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2087756584646754313",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 207,
+          "like_count": 987,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-28T11:26:58.000Z",
+        "description": "",
+        "id": "1299307448747077632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087731442348679377",
+        "name": "Robin Che",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 8221,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "robin_che",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

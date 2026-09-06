@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2082975676236534161",
+    "created_at": "2026-08-03T06:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084171381923824044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042626414952722432",
+          "start": 0,
+          "username": "CCninil"
+        },
+        {
+          "end": 25,
+          "id": "1863253705971392512",
+          "start": 9,
+          "username": "ECbkriegaQ24835"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084171381923824044",
+    "in_reply_to_user_id": "2042626414952722432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084166211563295071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCninil @ECbkriegaQ24835 可以的 我有外幻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2082975676236534161",
+        "created_at": "2026-08-03T06:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084171381923824044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042626414952722432",
+              "start": 0,
+              "username": "CCninil"
+            },
+            {
+              "end": 25,
+              "id": "1863253705971392512",
+              "start": 9,
+              "username": "ECbkriegaQ24835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084171381923824044",
+        "in_reply_to_user_id": "2042626414952722432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084166211563295071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCninil @ECbkriegaQ24835 可以的 我有外幻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042626414952722432",
+        "conversation_id": "2082975676236534161",
+        "created_at": "2026-08-03T06:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084166211563295071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 25,
+              "id": "1863253705971392512",
+              "start": 9,
+              "username": "ECbkriegaQ24835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084166211563295071",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083383692597293484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 @ECbkriegaQ24835 右佐匹克隆能o吗，有效果吗😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 195,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T15:32:14.000Z",
+        "description": "吃掉我吧",
+        "id": "2042626414952722432",
+        "name": "zsbsb",
+        "pinned_tweet_id": "2073028603135377644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042628980629737476/JU6En2Hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 555,
+          "like_count": 6517,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "CCninil",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T16:08:04.000Z",
+        "description": "",
+        "id": "1863253705971392512",
+        "name": "颓鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864252120352083972/eFrSvJvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 181,
+          "like_count": 1833,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "ECbkriegaQ24835",
+        "verified": false
+      }
+    ]
+  }
+}

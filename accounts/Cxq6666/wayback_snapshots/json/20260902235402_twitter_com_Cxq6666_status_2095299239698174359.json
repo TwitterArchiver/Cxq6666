@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2095299239698174359",
+    "created_at": "2026-09-02T23:54:02.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095299239698174359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089404598159351809",
+          "start": 3,
+          "username": "Nunkytq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095299239698174359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094995057648824364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nunkytq: 我的社交状态就是你不理我,我也不理你，只要你一主动找我，我的话会特别多，然后你有一段时间不理我，我就会觉得是自己话多了，或者是烦到你了，我又会变得高冷不主动,但是你又一旦主动找我,我还是会一直说不停。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2095299239698174359",
+        "created_at": "2026-09-02T23:54:02.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095299239698174359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089404598159351809",
+              "start": 3,
+              "username": "Nunkytq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095299239698174359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094995057648824364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nunkytq: 我的社交状态就是你不理我,我也不理你，只要你一主动找我，我的话会特别多，然后你有一段时间不理我，我就会觉得是自己话多了，或者是烦到你了，我又会变得高冷不主动,但是你又一旦主动找我,我还是会一直说不停。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089404598159351809",
+        "conversation_id": "2094995057648824364",
+        "created_at": "2026-09-02T03:45:19.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094995057648824364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094995057648824364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19352,
+          "like_count": 601,
+          "quote_count": 20,
+          "reply_count": 42,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "我的社交状态就是你不理我,我也不理你，只要你一主动找我，我的话会特别多，然后你有一段时间不理我，我就会觉得是自己话多了，或者是烦到你了，我又会变得高冷不主动,但是你又一旦主动找我,我还是会一直说不停。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2095299239698174359",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 196,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1009
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:34:51.000Z",
+        "description": "",
+        "id": "2089404598159351809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095115730153046519",
+        "name": "Nun",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089404598159351809/1786988252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089406146641813504/tC2hlxdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 8,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Nunkytq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

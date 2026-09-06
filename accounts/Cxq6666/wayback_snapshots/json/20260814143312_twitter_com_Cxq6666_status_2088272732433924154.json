@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2088268037724282948",
+    "created_at": "2026-08-14T14:33:12.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088272732433924154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066108983178579968",
+          "start": 0,
+          "username": "AkiraTT_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088272732433924154",
+    "in_reply_to_user_id": "2066108983178579968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088268037724282948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiraTT_chan ？咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2088268037724282948",
+        "created_at": "2026-08-14T14:33:12.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272732433924154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066108983178579968",
+              "start": 0,
+              "username": "AkiraTT_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272732433924154",
+        "in_reply_to_user_id": "2066108983178579968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088268037724282948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiraTT_chan ？咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066108983178579968",
+        "conversation_id": "2088268037724282948",
+        "created_at": "2026-08-14T14:14:32.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088268037724282948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088268037724282948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金时老大咋了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2088272732433924154",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 201,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T10:45:00.000Z",
+        "description": "我是晓晓呀 同类宝宝大欢迎我爱你们…\n前世@Chuiertu_chan  防炸逃生舱@AkiraTTT_chan \n互fo请私信呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "Chuiertu_chan"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "AkiraTTT_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/Kfc4R9CsiU"
+              }
+            ]
+          }
+        },
+        "id": "2066108983178579968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088268037724282948",
+        "name": "Akira_晓（2.0）",
+        "pinned_tweet_id": "2084204086984122721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066108983178579968/1785643084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083764239504969728/GicOm_yF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 109,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/Kfc4R9CsiU",
+        "username": "AkiraTT_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

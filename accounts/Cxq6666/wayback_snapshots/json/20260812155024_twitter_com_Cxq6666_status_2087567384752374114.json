@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2087449005894889809",
+    "created_at": "2026-08-12T15:50:24.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T16:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087567384752374114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087567384752374114",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087449005894889809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 像塞拉吗那很好奇了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1786,
+        "media_key": "3_2087448988266233856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgby4hbgAA90tf.jpg",
+        "width": 1074
+      },
+      {
+        "height": 626,
+        "media_key": "3_2087448988253626368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgby4ebIAA8xGv.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2087449005894889809",
+        "created_at": "2026-08-12T15:50:24.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T16:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087567384752374114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087567384752374114",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087449005894889809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 像塞拉吗那很好奇了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087448988266233856",
+            "3_2087448988253626368"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087449005894889809",
+        "created_at": "2026-08-12T08:00:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087449005894889809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toV1eLtv2p",
+              "end": 28,
+              "expanded_url": "https://x.com/AMadelaina/status/2087449005894889809/photo/1",
+              "media_key": "3_2087448988266233856",
+              "start": 5,
+              "url": "https://t.co/toV1eLtv2p"
+            },
+            {
+              "display_url": "pic.x.com/toV1eLtv2p",
+              "end": 28,
+              "expanded_url": "https://x.com/AMadelaina/status/2087449005894889809/photo/1",
+              "media_key": "3_2087448988253626368",
+              "start": 5,
+              "url": "https://t.co/toV1eLtv2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087449005894889809",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087448988266233856"
+          },
+          {
+            "media_key": "3_2087448988253626368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4172,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "a批笑话 https://t.co/toV1eLtv2p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2087567384752374114",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 207,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "并非黄推，但我有赛博露阴癖，偶尔更新自伤自慰视频，请见谅",
+        "id": "1982429504225349632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087449005894889809",
+        "name": "眼球是個障礙",
+        "pinned_tweet_id": "2020467357831897184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982429504225349632/1786296983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004282193246625792/zuCMvmhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3192,
+          "following_count": 285,
+          "like_count": 2162,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "AMadelaina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

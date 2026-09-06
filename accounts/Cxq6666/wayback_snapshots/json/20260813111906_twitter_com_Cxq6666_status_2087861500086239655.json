@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2087730920849879361",
+    "created_at": "2026-08-13T11:19:06.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087861500086239655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087861500086239655",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087730920849879361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 求原图宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2087730912431861760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkcNB4acAABeWr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2087730920849879361",
+        "created_at": "2026-08-13T11:19:06.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087861500086239655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087861500086239655",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087730920849879361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 求原图宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087730912431861760"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "conversation_id": "2087730920849879361",
+        "created_at": "2026-08-13T02:40:14.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087730920849879361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7JgIbxEiL",
+              "end": 42,
+              "expanded_url": "https://x.com/OoOooo0518/status/2087730920849879361/photo/1",
+              "media_key": "3_2087730912431861760",
+              "start": 19,
+              "url": "https://t.co/r7JgIbxEiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087730920849879361",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087730912431861760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "害 剩下的要是我能搞到我肯定去搞了😭 https://t.co/r7JgIbxEiL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2087861500086239655",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 205,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹: @QianQian_TwT\n免费咨询药物推荐电报联系https://t.co/CIpMy1FYM9或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QianQian_TwT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 88,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 65,
+                "url": "https://t.co/CIpMy1FYM9"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2087828783940424150",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 328,
+          "like_count": 2683,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

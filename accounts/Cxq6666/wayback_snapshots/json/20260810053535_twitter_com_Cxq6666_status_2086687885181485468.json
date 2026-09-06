@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2086687885181485468",
+    "created_at": "2026-08-10T05:35:35.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086687885181485468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1225559787414401025",
+          "start": 3,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086687885181485468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086343759483351233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gun1nx: 虽然我知道我们只是朋友但是我真的不知道为什么看你和别人玩我就心里难受是我独占欲太强了吗？我知道你也有自己的社交圈但是我希望你只和我玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2086687885181485468",
+        "created_at": "2026-08-10T05:35:35.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086687885181485468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1225559787414401025",
+              "start": 3,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086687885181485468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086343759483351233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gun1nx: 虽然我知道我们只是朋友但是我真的不知道为什么看你和别人玩我就心里难受是我独占欲太强了吗？我知道你也有自己的社交圈但是我希望你只和我玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2086343759483351233",
+        "created_at": "2026-08-09T06:48:09.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086343759483351233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086343759483351233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 957,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我知道我们只是朋友但是我真的不知道为什么看你和别人玩我就心里难受是我独占欲太强了吗？我知道你也有自己的社交圈但是我希望你只和我玩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2086687885181485468",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 200,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "04年宅宅，大三休学中，男，坐标厦门，\n目前是w4舞萌痴\n爱玩点gal/音游/魂 \n欢迎找我约勤和互fo",
+        "id": "1225559787414401025",
+        "is_identity_verified": false,
+        "location": "出勤ing",
+        "most_recent_tweet_id": "2086652472513417244",
+        "name": "Sangu1s",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225559787414401025/1778063778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056733968003932160/sWaMs5yL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 120,
+          "like_count": 19779,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "Gun1nx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2087877997046952348",
+    "created_at": "2026-08-13T14:01:16.000Z",
+    "display_text_range": [
+      13,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087902307866599622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946132863457595392",
+          "start": 0,
+          "username": "AmieReineke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087902307866599622",
+    "in_reply_to_user_id": "1946132863457595392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087877997046952348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmieReineke 一个日本的复方右美沙芬，但是里面有扑热息痛所以o不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2087877980232069120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmh9gIXsAAPEhi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2087877997046952348",
+        "created_at": "2026-08-13T14:01:16.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087902307866599622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946132863457595392",
+              "start": 0,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087902307866599622",
+        "in_reply_to_user_id": "1946132863457595392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087877997046952348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmieReineke 一个日本的复方右美沙芬，但是里面有扑热息痛所以o不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087877980232069120"
+          ]
+        },
+        "author_id": "1946132863457595392",
+        "conversation_id": "2087877997046952348",
+        "created_at": "2026-08-13T12:24:40.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087877997046952348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKVDxOHh3g",
+              "end": 33,
+              "expanded_url": "https://x.com/AmieReineke/status/2087877997046952348/photo/1",
+              "media_key": "3_2087877980232069120",
+              "start": 10,
+              "url": "https://t.co/EKVDxOHh3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087877997046952348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087877980232069120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新露露那个是啥…… https://t.co/EKVDxOHh3g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2087902307866599622",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 205,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T09:00:21.000Z",
+        "description": "我只是呆着……\n前世：@classictramp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "classictramp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/2RVYUQ69UEC4A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/xhKiFIVG4p"
+              }
+            ]
+          }
+        },
+        "id": "1946132863457595392",
+        "is_identity_verified": false,
+        "location": "Stuart, FL",
+        "most_recent_tweet_id": "2087884313391972544",
+        "name": "ww",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946132863457595392/1784302533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 38,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/xhKiFIVG4p",
+        "username": "AmieReineke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
