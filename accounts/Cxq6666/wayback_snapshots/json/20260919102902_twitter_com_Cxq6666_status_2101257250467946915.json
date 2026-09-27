@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2101048112093815286",
+    "created_at": "2026-09-19T10:29:02.000Z",
+    "display_text_range": [
+      22,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T11:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101257250467946915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656617197253578752",
+          "start": 0,
+          "username": "ywl88888"
+        },
+        {
+          "end": 21,
+          "id": "2095401063016964096",
+          "start": 10,
+          "username": "zifeneight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101257250467946915",
+    "in_reply_to_user_id": "1656617197253578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101207660544827406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywl88888 @zifeneight 我第一次2t就有诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2101048112093815286",
+        "created_at": "2026-09-19T10:29:02.000Z",
+        "display_text_range": [
+          22,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101257250467946915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656617197253578752",
+              "start": 0,
+              "username": "ywl88888"
+            },
+            {
+              "end": 21,
+              "id": "2095401063016964096",
+              "start": 10,
+              "username": "zifeneight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101257250467946915",
+        "in_reply_to_user_id": "1656617197253578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101207660544827406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywl88888 @zifeneight 我第一次2t就有诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656617197253578752",
+        "conversation_id": "2101048112093815286",
+        "created_at": "2026-09-19T07:11:59.000Z",
+        "display_text_range": [
+          21,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101207660544827406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            },
+            {
+              "end": 20,
+              "id": "2095401063016964096",
+              "start": 9,
+              "username": "zifeneight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101207660544827406",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101187117900788209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 @zifeneight 右佐几t出幻呀喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2101257250467946915",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 197,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T11:08:32.000Z",
+        "description": "INFP-T｜成分复杂｜重抑轻焦｜不o不割遵医嘱吃药中｜全友好\n欢迎互fo喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ywl88888",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ywl88888",
+                "start": 0,
+                "url": "https://t.co/0oOFansnxm"
+              }
+            ]
+          }
+        },
+        "id": "1656617197253578752",
+        "is_identity_verified": false,
+        "location": "长沙",
+        "most_recent_tweet_id": "2101247358734643640",
+        "name": "冥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656617197253578752/1783204987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073878294278328320/a_mtCV5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 116,
+          "like_count": 5805,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/0oOFansnxm",
+        "username": "ywl88888",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T06:39:46.000Z",
+        "description": "友好所有人😋\n09年/17岁/oder/药物报告/男的🤓",
+        "id": "2095401063016964096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101222779412693498",
+        "name": "自分",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 37,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "zifeneight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059212406451240960",
+    "conversation_id": "2100451779523809364",
+    "created_at": "2026-09-17T11:40:32.000Z",
+    "display_text_range": [
+      19,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100550468120510560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096460299213905920",
+          "start": 0,
+          "username": "d9nmTTT"
+        },
+        {
+          "end": 18,
+          "id": "1972944778116706304",
+          "start": 9,
+          "username": "fine_420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100550468120510560",
+    "in_reply_to_user_id": "2096460299213905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100451779523809364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9nmTTT @fine_420 有报告吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059212406451240960",
+        "conversation_id": "2100451779523809364",
+        "created_at": "2026-09-17T11:40:32.000Z",
+        "display_text_range": [
+          19,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100550468120510560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096460299213905920",
+              "start": 0,
+              "username": "d9nmTTT"
+            },
+            {
+              "end": 18,
+              "id": "1972944778116706304",
+              "start": 9,
+              "username": "fine_420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100550468120510560",
+        "in_reply_to_user_id": "2096460299213905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100451779523809364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9nmTTT @fine_420 有报告吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096460299213905920",
+        "conversation_id": "2100451779523809364",
+        "created_at": "2026-09-17T05:08:23.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100451779523809364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1972944778116706304",
+              "start": 0,
+              "username": "fine_420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100451779523809364",
+        "in_reply_to_user_id": "1972944778116706304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@fine_420 这是我朋友 🍃🎫🥚🍄 可走担保 ！任何不愿意走担保的都是骗子 如果是我亲友找他 请找他请备注東九"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJfhS"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 🚪20/50",
+        "most_recent_tweet_id": "2100550468120510560",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 198,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/1R4XnbJfhS",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 我希望爱与和平  二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作。\n防走丢 tg @d9nmTT 解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2100515545393381735",
+        "name": "東九（三世 原料革命 ）",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 82,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 316
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-30T08:41:20.000Z",
+        "description": "我们不会主动私信客户兜售产品 请不要相信主动私信你的人！我们的产品包含🍃 🎫 🍄 thc🥚 我的tg账号 @yfl_420 我的脆账号 @yful_420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "yfl_420"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yful_420"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YFL_420",
+                "end": 23,
+                "expanded_url": "https://t.me/YFL_420",
+                "start": 0,
+                "url": "https://t.co/Xe6UOUyFBb"
+              }
+            ]
+          }
+        },
+        "id": "1972944778116706304",
+        "is_identity_verified": false,
+        "location": "#420 共和国",
+        "most_recent_tweet_id": "2100548842534154650",
+        "name": "伊芙琳 420 大麻/大麻电子烟",
+        "pinned_tweet_id": "2100126297343336519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972944778116706304/1789240967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098854806135959552/0iCi6r1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 6,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/Xe6UOUyFBb",
+        "username": "fine_420",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
