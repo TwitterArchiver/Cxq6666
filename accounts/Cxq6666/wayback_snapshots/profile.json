@@ -1,11 +1,20 @@
 {
   "name": "小清分享戒o不好体验",
   "username": "@Cxq6666",
-  "bio": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
-  "location": "浙江 🚪20/50",
+  "bio": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo\n恋人及仆人：@wisp_v1",
+  "location": "浙江 ",
   "link": "https://ngl.link/aryiiii16",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2071497448288346609",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 52,
+        "start": 44,
+        "username": "wisp_v1"
+      }
+    ]
+  }
 }
