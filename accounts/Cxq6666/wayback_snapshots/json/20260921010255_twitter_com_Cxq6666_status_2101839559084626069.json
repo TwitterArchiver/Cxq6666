@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101839545985904640"
+      ]
+    },
+    "author_id": "2059212406451240960",
+    "conversation_id": "2101839559084626069",
+    "created_at": "2026-09-21T01:02:55.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101839559084626069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "@cxq6666 的 X 互动圈：49 人 · 收到 9 条 / 发出 94 条互动 - NekoCircle",
+          "display_url": "circle.catsuki.cc/zh/circle/hkox…",
+          "end": 37,
+          "expanded_url": "https://circle.catsuki.cc/zh/circle/hkoxe3b6",
+          "start": 14,
+          "status": 200,
+          "title": "cxq6666 的互动圈",
+          "unwound_url": "https://circle.catsuki.cc/zh/circle/hkoxe3b6",
+          "url": "https://t.co/00Om7avBO3"
+        },
+        {
+          "display_url": "pic.x.com/wNFdcQqRWW",
+          "end": 79,
+          "expanded_url": "https://x.com/Cxq6666/status/2101839559084626069/photo/1",
+          "media_key": "3_2101839545985904640",
+          "start": 56,
+          "url": "https://t.co/wNFdcQqRWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101839559084626069",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101839545985904640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特圈!\n快速寻找自己 https://t.co/00Om7avBO3\n使用 NekoCircle 创建! https://t.co/wNFdcQqRWW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101839545985904640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSs77llbsAAWT_b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101839545985904640"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2101839559084626069",
+        "created_at": "2026-09-21T01:02:55.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101839559084626069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@cxq6666 的 X 互动圈：49 人 · 收到 9 条 / 发出 94 条互动 - NekoCircle",
+              "display_url": "circle.catsuki.cc/zh/circle/hkox…",
+              "end": 37,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/hkoxe3b6",
+              "start": 14,
+              "status": 200,
+              "title": "cxq6666 的互动圈",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/hkoxe3b6",
+              "url": "https://t.co/00Om7avBO3"
+            },
+            {
+              "display_url": "pic.x.com/wNFdcQqRWW",
+              "end": 79,
+              "expanded_url": "https://x.com/Cxq6666/status/2101839559084626069/photo/1",
+              "media_key": "3_2101839545985904640",
+              "start": 56,
+              "url": "https://t.co/wNFdcQqRWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101839559084626069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101839545985904640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈!\n快速寻找自己 https://t.co/00Om7avBO3\n使用 NekoCircle 创建! https://t.co/wNFdcQqRWW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhejiang Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.0,
+                  29.0
+                ],
+                "type": "Point"
+              },
+              "region": "Zhejiang Sheng"
+            }
+          ]
+        },
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo\n恋人及仆人：@wisp_v1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "wisp_v1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "is_identity_verified": false,
+        "location": "浙江 ",
+        "most_recent_tweet_id": "2101839559084626069",
+        "name": "小清分享戒o不好体验",
+        "pinned_tweet_id": "2089662572673069437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059212406451240960/1782519359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 197,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
