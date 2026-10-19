@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-19T07:45:06",
+  "last_updated": "2026-10-19T07:45:20",
   "html": {
     "https://web.archive.org/web/20260625062025if_/https://twitter.com/Cxq6666/status/2070029326163341731": {
       "status": "done",
@@ -11719,22 +11719,25 @@
       "last_updated": "2026-09-27T18:18:18"
     },
     "https://pbs.twimg.com/profile_images/2079013337321369600/h56b96EE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260921005852_twitter_com_Cxq6666_status_2101838538967027904.json"
-      ]
+      ],
+      "last_updated": "2026-10-19T07:45:20"
     },
     "https://pbs.twimg.com/profile_images/2099167377741303809/CcIYOIrM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260921023542_twitter_com_Cxq6666_status_2101862909370659250.json"
-      ]
+      ],
+      "last_updated": "2026-10-19T07:45:20"
     },
     "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260924030045_twitter_com_Cxq6666_status_2102956374330392629.json"
-      ]
+      ],
+      "last_updated": "2026-10-19T07:45:20"
     }
   },
   "media": {
@@ -25371,7 +25374,7 @@
       "last_updated": "2026-09-27T18:18:18"
     },
     "20260921005852_twitter_com_Cxq6666_status_2101838538967027904.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -25380,7 +25383,7 @@
           "https://pbs.twimg.com/profile_images/2079013337321369600/h56b96EE_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-19T07:45:04"
+      "last_updated": "2026-10-19T07:45:20"
     },
     "20260921010255_twitter_com_Cxq6666_status_2101839559084626069.json": {
       "status": "failed",
@@ -25397,7 +25400,7 @@
       "miss_count": 2
     },
     "20260921023542_twitter_com_Cxq6666_status_2101862909370659250.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSp69lKWAAAHvFg.jpg"
@@ -25408,7 +25411,7 @@
           "https://pbs.twimg.com/profile_images/2099167377741303809/CcIYOIrM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-19T07:45:04"
+      "last_updated": "2026-10-19T07:45:20"
     },
     "20260921185620_twitter_com_Cxq6666_status_2102109690415231456.json": {
       "status": "done",
@@ -25447,7 +25450,7 @@
       "last_updated": "2026-10-19T07:37:17"
     },
     "20260924030045_twitter_com_Cxq6666_status_2102956374330392629.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS0MEVOaAAAQz1K.jpg"
@@ -25459,7 +25462,7 @@
           "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-19T07:45:04"
+      "last_updated": "2026-10-19T07:45:20"
     }
   }
 }
